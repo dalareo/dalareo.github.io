@@ -1,2 +1,8 @@
+node_modules/
 public
-node_modules
+
+*.log
+.gatsby-context.js
+pages/.manifest
+.idea
+gatsby-starter-lumen.iml
