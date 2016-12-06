@@ -12,7 +12,7 @@
     "copy": "npm run copy:files",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public"
+    "deploy": "gatsby build --prefix-links && gh-pages -b master -d public"
   },
   "keywords": [
     "gatsby",
@@ -42,6 +42,7 @@
     "underscore.string": "^3.2.3"
   },
   "devDependencies": {
+    "autoprefixer": "^6.3.7",
     "babel-core": "^6.11.4",
     "babel-loader": "^6.2.4",
     "babel-preset-react-hmre": "^1.1.1",
@@ -51,18 +52,17 @@
     "eslint-plugin-import": "^1.12.0",
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
+    "file-loader": "^0.9.0",
     "gh-pages": "^0.11.0",
     "image-webpack-loader": "^2.0.0",
+    "lost": "^7.0.3",
     "null-loader": "^0.1.1",
     "postcss-loader": "^0.9.1",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.10",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.13.1",
-    "autoprefixer": "^6.3.7",
-    "file-loader": "^0.9.0",
     "rucksack-css": "^0.8.5",
-    "lost": "^7.0.3"
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
   }
 }
