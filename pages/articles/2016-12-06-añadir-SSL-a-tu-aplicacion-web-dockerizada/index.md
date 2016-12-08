@@ -2,7 +2,7 @@
 title: "Añadir SSL a tu aplicación web dockerizada"
 date: "2016-12-06"
 layout: post
-path: "/añadir-SSL-a-tu-aplicacion-web-dockerizada/"
+path: "/anadir-SSL-a-tu-aplicacion-web-dockerizada/"
 category: "desarrollo web"
 description: "Cada vez parece más claro que Google comenzará a penalizar aquellos sitios que no tengan una conexión segura. Por otro lado, la aparición de Lets Encrypt ha facilitado la configuración de un certificado SSL para tu sitio web, incorporando instalaciones automatizadas para los principales servidores web. Pero, ¿y si nuestra app está ya funcionando con Docker?"
 ---
