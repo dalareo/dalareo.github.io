@@ -1,7 +1,7 @@
 {
   "version": "0.0.0",
-  "name": "David A. Lareo Website",
-  "description": "Personal website made with Gatsby",
+  "name": "dalareo",
+  "description": "David A. Lareo personal website made with Gatsby",
   "author": "David A. Lareo <dalareo@gmail.com>",
   "scripts": {
     "develop": "gatsby develop",
