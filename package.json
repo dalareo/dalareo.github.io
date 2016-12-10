@@ -2,7 +2,6 @@
   "version": "0.0.0",
   "name": "dalareo",
   "description": "David A. Lareo personal website made with Gatsby",
-  "author": "David A. Lareo <dalareo@gmail.com>",
   "scripts": {
     "develop": "gatsby develop",
     "build": "npm run clean & gatsby build & copy",
@@ -14,6 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gatsby build --prefix-links && gh-pages -b master -d public"
   },
+  "author": "David A. Lareo <dalareo@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",

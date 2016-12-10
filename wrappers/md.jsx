@@ -29,7 +29,7 @@ class MarkdownWrapper extends React.Component {
                 shortname="dalareo"
                 title={post.title}
                 url={`https://dalareo.github.io${this.props.location.pathname}`}
-	      />
+              /DisqusThread>
             </DocumentTitle>
             );
     }
