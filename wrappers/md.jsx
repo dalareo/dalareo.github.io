@@ -25,11 +25,11 @@ class MarkdownWrapper extends React.Component {
               <div>
                 { template }
               </div>
-              <DisqusThread
+              <DisqusThread>
                 shortname="dalareo"
                 title={post.title}
                 url={`https://dalareo.github.io${this.props.location.pathname}`}
-              /DisqusThread>
+              </DisqusThread>
             </DocumentTitle>
             );
     }
