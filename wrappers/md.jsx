@@ -4,6 +4,8 @@ import SitePost from '../components/SitePost'
 import SitePage from '../components/SitePage'
 import { config } from 'config'
 
+const DisqusThread = require('react-disqus-thread')
+
 class MarkdownWrapper extends React.Component {
     render() {
         const {route} = this.props
@@ -22,6 +24,11 @@ class MarkdownWrapper extends React.Component {
             <DocumentTitle title={ `${post.title} - ${config.siteTitle}` }>
               <div>
                 { template }
+                <DisqusThread
+                  shortname="dalareo"
+                  title={post.title}
+                  url={`https://dalareo.github.io${this.props.location.pathname}`}
+                />
               </div>
             </DocumentTitle>
             );
