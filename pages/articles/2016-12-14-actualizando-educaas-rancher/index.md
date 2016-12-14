@@ -38,7 +38,7 @@ Primero actualizaremos la UI para integrar los cambios de la última versión de
 
 1. Creamos una rama en nuestro repo con la última versión de Rancher: _git branch -b rancher-master_
 2. Integramos en esa rama la última versión de nuestra interfaz: _git pull https://github.com/educaas/ui master_
-3. Resolvemos los conflictos editando manualmente los archivos que Git no es incapaz de integrar de manera automática
+3. Resolvemos los conflictos editando manualmente los archivos que Git no es capaz de integrar de manera automática
 4. Subimos los cambios a nuestro repositorio como una rama nueva: _git push origin new-branch_
 5. Una vez que tenemos las dos ramas en el repositorio y hemos comprobado que la nueva versión funciona hacemos un merge e integramos los cambios en la rama master y borramos la nueva rama.
 
