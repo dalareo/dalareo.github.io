@@ -24,6 +24,7 @@ module.exports = React.createClass({
               <meta charSet="utf-8" />
               <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
               <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
+              <meta name="google-site-verification" content="Mw_RsimrQbPH6AqapBVpWlJxCpxeVlVS3ti8HRrIPds" />
               <meta property="og:title" content="Sitio web personal de David A. Lareo" />
               <meta property="og:description" content="Sitio web personal: artículos, proyectos y material de autobombo" />
               <meta property="og:image" content="https://fricolab.github.io/images/logo_fricolaB.png" />
