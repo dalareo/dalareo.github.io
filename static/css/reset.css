@@ -32,6 +32,7 @@ audio:not([controls]) {
 	 ========================================================================== */
 a {
 	background: transparent;
+	text-decoration: underline;
 }
 a:active, a:hover {
 	outline: 0;
