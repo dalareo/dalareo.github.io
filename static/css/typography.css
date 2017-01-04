@@ -79,7 +79,7 @@ section {
 a {
 	background: transparent;
 	color: #222;
-	text-decoration: none;
+	text-decoration: underline;
 	transition: all .3s;
 }
 a:active, a:hover {
