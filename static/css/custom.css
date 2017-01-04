@@ -5,6 +5,10 @@ td {
   padding: 20px;
 }
 
+.readmore, .gohome, .blog-nav ul li a, h2 a {
+  text-decoration: transparent;
+}
+
 /* Custom CSS for sharing buttons */
 
 .resp-sharing-button__link,
