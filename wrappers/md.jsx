@@ -1,5 +1,5 @@
 import React from 'react'
-import DocumentTitle from 'react-document-title'
+import Helmet from 'react-helmet'
 import SitePost from '../components/SitePost'
 import SitePage from '../components/SitePage'
 import { config } from 'config'
@@ -19,11 +19,13 @@ class MarkdownWrapper extends React.Component {
         }
 
         return (
-            <DocumentTitle title={ `${post.title} - ${config.siteTitle}` }>
-              <div>
-                { template }
+            <div>
+              <Helmet
+                title={ `${post.title} - ${config.siteTitle}` }
+              />
+              { template }
               </div>
-            </DocumentTitle>
+            </div>
             );
     }
 }
