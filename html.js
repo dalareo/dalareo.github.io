@@ -27,7 +27,7 @@ module.exports = React.createClass({
               <meta name="google-site-verification" content="Mw_RsimrQbPH6AqapBVpWlJxCpxeVlVS3ti8HRrIPds" />
 
               {head.title.toComponent()}
- +            {head.meta.toComponent()}
+              {head.meta.toComponent()}
               { font }
               { css }
             </head>
