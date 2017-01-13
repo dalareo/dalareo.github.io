@@ -24,7 +24,6 @@ class MarkdownWrapper extends React.Component {
                 title={ `${post.title} - ${config.siteTitle}` }
               />
               { template }
-              </div>
             </div>
             );
     }
