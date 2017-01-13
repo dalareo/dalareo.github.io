@@ -43,7 +43,7 @@ class SiteIndex extends React.Component {
               <Helmet
                 title={ config.siteTitle }
                 meta={[
-                  {"name": "description", "content": { config.siteDescr } },
+                  {"name": "description", "content": "Sitio web personal: artículos, proyectos y material de autobombo" },
                 ]}
               />
                 <SiteSidebar {...this.props}/>
@@ -54,8 +54,7 @@ class SiteIndex extends React.Component {
                     </div>
                   </div>
                 </div>
-              </div>
-            </DocumentTitle>
+            </div>
         )
     }
 }
