@@ -5,8 +5,8 @@ import { config } from 'config'
 import SiteNav from '../SiteNav'
 import SiteLinks from '../SiteLinks'
 import './style.css'
-import profilePic from '../../pages/photo.jpg'
-import licensePic from '../../pages/agplv3-88x31.png'
+import profilePic from '../../pages/images/photo.jpg'
+import licensePic from '../../pages/images/agplv3-88x31.png'
 
 class SiteSidebar extends React.Component {
     render() {
