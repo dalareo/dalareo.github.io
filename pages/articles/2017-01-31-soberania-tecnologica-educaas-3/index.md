@@ -38,7 +38,5 @@ Los usuarios de EduCaaS podrán utilizar las mismas credenciales para acceder a 
 - usuario: "usuario"
 - contraseña: "password"
 
-Estas credenciales son además válidas para acceder a EduCaaS, desde la URL http://wip.educaas.io
-
 Todos los usuarios están registrados en un directorio basado en el estándard OpenLDAP que hemos alojado en un [servidor independiente](https://is.educaas.io:9443), basado en el proyecto [WSO2IS](http://wso2.com/products/identity-server/) pero que también
 se puede instalar desde el propio [catálogo](http://wip.educaas.io/env/1a5/catalog?catalogId=EduCaaS).
