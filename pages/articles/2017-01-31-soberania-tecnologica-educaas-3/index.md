@@ -23,7 +23,7 @@ En el menu de aplicaciones nos encontramos con grandes tarjetas que representan 
 
 - Plataforma de comunicación instantánea: https://chat.educaas.io
 
-- Alojamiento de archivos en la nube sincronizado con nuestros dispositivos: https://files.educaas.io
+- Alojamiento de archivos en la nube sincronizado con nuestros dispositivos: https://cloud.educaas.io
 
 - Gestor de proyectos con metodologías ágiles: https://agile.educaas.io
 
