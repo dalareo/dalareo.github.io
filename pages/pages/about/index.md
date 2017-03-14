@@ -8,4 +8,4 @@ Soy indisciplinado y excesivo. Me formé en los límites de la academia y reivin
 
 Me apasionan muchas cosas y por eso tengo la mochila cargada de historias, algunas de ellas son: **educación**, **emprendimiento social**, **economía del bien común**, **innovación social**, **desarrollo web**, **administración de infraestructura digital**, **diseño y gestión ágil**...y las que faltan!
 
-<iframe src="https://raw.githubusercontent.com/dalareo/curriculum/master/index.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://dalareo.github.io/curriculum/index.html" marginwidth="0" marginheight="0" scrolling="no"></iframe>
