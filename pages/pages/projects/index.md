@@ -2,6 +2,7 @@
 title: "Proyectos"
 layout: page
 path: "/projects"
+description: "Estos son los proyectos en los que estoy colaborando."
 ---
 <name> | <description>
 --- | ---
