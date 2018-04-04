@@ -9,7 +9,7 @@ Soy indisciplinado y excesivo. Me formé en los límites de la academia y reivin
 
 Me apasionan muchas cosas y por eso tengo la mochila cargada de historias, algunas de ellas son: **educación**, **emprendimiento social**, **economía del bien común**, **innovación social**, **desarrollo web**, **administración de infraestructura digital**, **diseño y gestión ágil**...y las que faltan!
 
-Dirijo [FricolaB](https://fricolab.github.io) y escribo el código y los versos en [EduCaaS](https://educaas.github.io). Coordino el laboratorio de innovación ciudadana [Co-Lab](http://colab.coruna.gal) en A Coruña.
+Dirijo [FricolaB](https://fricolab.github.io) y escribo el código y los versos en [EduCaaS](https://educaas.github.io).
 
 Aquí abajo estoy experimentando con una visualización de los principales hitos de mi recorrido profesional y académico. Por lo de pronto hay que echarle bastante imaginación pero puede ser útil para ver las **distintas etapas de mi carrera**. **Coloca el puntero del ratón sobre un nodo** para ver el nombre de ese elemento y **arrastra los nodos** para comprobar las relaciones entre ellos y el peso relativo en mi curriculum.
 
