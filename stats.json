@@ -1,0 +1,182 @@
+{
+  "assetsByChunkName": {
+    "path---comentarios-y-compartir-en-redes-sociales-en-gatsby": [
+      "path---comentarios-y-compartir-en-redes-sociales-en-gatsby-58cf3e03fbd8aaef78b6.js",
+      "path---comentarios-y-compartir-en-redes-sociales-en-gatsby-58cf3e03fbd8aaef78b6.js.map"
+    ],
+    "path---imagenes-docker-actualizadas-automaticamente": [
+      "path---imagenes-docker-actualizadas-automaticamente-b03fc14858c5e68da80e.js",
+      "path---imagenes-docker-actualizadas-automaticamente-b03fc14858c5e68da80e.js.map"
+    ],
+    "component---src-templates-page-template-jsx": [
+      "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js",
+      "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js.map"
+    ],
+    "path---categories": [
+      "path---categories-f608eb733f73542a6c80.js",
+      "path---categories-f608eb733f73542a6c80.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---je-suis-andreas": [
+      "path---je-suis-andreas-27db1f8991271381da76.js",
+      "path---je-suis-andreas-27db1f8991271381da76.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-6d10d69c67aea13516b7.js",
+      "component---src-layouts-index-jsx-6d10d69c67aea13516b7.js.map"
+    ],
+    "component---src-templates-category-template-jsx": [
+      "component---src-templates-category-template-jsx-b3a03c2ffba53a8bbb86.js",
+      "component---src-templates-category-template-jsx-b3a03c2ffba53a8bbb86.js.map"
+    ],
+    "path---projects": [
+      "path---projects-14c26ae9f65885b14d24.js",
+      "path---projects-14c26ae9f65885b14d24.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-post-template-jsx": [
+      "component---src-templates-post-template-jsx-a075e460f6c3d9118537.js",
+      "component---src-templates-post-template-jsx-a075e460f6c3d9118537.js.map"
+    ],
+    "path---wordpress-ldap-docker": [
+      "path---wordpress-ldap-docker-ba248d689151c1f566e1.js",
+      "path---wordpress-ldap-docker-ba248d689151c1f566e1.js.map"
+    ],
+    "path---aplicaciones-html-5": [
+      "path---aplicaciones-html-5-d62849c96bfa59f4d947.js",
+      "path---aplicaciones-html-5-d62849c96bfa59f4d947.js.map"
+    ],
+    "path---openedx-contenedores-docker": [
+      "path---openedx-contenedores-docker-97db2cb6be01a0dc2c87.js",
+      "path---openedx-contenedores-docker-97db2cb6be01a0dc2c87.js.map"
+    ],
+    "component---src-pages-categories-jsx": [
+      "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js",
+      "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
+    ],
+    "path---index": [
+      "path---index-46963696ae3d940182a6.js",
+      "path---index-46963696ae3d940182a6.js.map"
+    ],
+    "path---educaas-soberania-digital-4": [
+      "path---educaas-soberania-digital-4-d7ef85e05712274328c1.js",
+      "path---educaas-soberania-digital-4-d7ef85e05712274328c1.js.map"
+    ],
+    "path---docker-compose-y-wordpress-juntos-pero-no-revueltos": [
+      "path---docker-compose-y-wordpress-juntos-pero-no-revueltos-9a90b22960cee356556b.js",
+      "path---docker-compose-y-wordpress-juntos-pero-no-revueltos-9a90b22960cee356556b.js.map"
+    ],
+    "path---ponte-las-pilas-con-el-software-libre": [
+      "path---ponte-las-pilas-con-el-software-libre-d8805c7ccc0b5b8a065d.js",
+      "path---ponte-las-pilas-con-el-software-libre-d8805c7ccc0b5b8a065d.js.map"
+    ],
+    "path---categories-pensamiento": [
+      "path---categories-pensamiento-674aee4db0e09be73539.js",
+      "path---categories-pensamiento-674aee4db0e09be73539.js.map"
+    ],
+    "commons": [
+      "commons-c3fca618b57e2f019ac4.js",
+      "build-js-styles.css",
+      "commons-c3fca618b57e2f019ac4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---educaas-soberania-digital-1": [
+      "path---educaas-soberania-digital-1-2e9762d5c098b54f5ddc.js",
+      "path---educaas-soberania-digital-1-2e9762d5c098b54f5ddc.js.map"
+    ],
+    "path---gaiteira": [
+      "path---gaiteira-a7bc3dea72aec91c34c2.js",
+      "path---gaiteira-a7bc3dea72aec91c34c2.js.map"
+    ],
+    "path---crea-tu-propia-red-de-wordpress": [
+      "path---crea-tu-propia-red-de-wordpress-d6b5d1f602e3230fb2fe.js",
+      "path---crea-tu-propia-red-de-wordpress-d6b5d1f602e3230fb2fe.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1005fcf791946d565c10.js",
+      "path---404-html-1005fcf791946d565c10.js.map"
+    ],
+    "path---lo-complejo-lo-emergente-lo-diferente-que-viene": [
+      "path---lo-complejo-lo-emergente-lo-diferente-que-viene-370835c95d05cd7445f4.js",
+      "path---lo-complejo-lo-emergente-lo-diferente-que-viene-370835c95d05cd7445f4.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js",
+      "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js.map"
+    ],
+    "path---categories-actualidad": [
+      "path---categories-actualidad-b4e1c9a4ecafeeb63f7b.js",
+      "path---categories-actualidad-b4e1c9a4ecafeeb63f7b.js.map"
+    ],
+    "path---documentar-para-compartir": [
+      "path---documentar-para-compartir-071b9ec9b3fc8425a41a.js",
+      "path---documentar-para-compartir-071b9ec9b3fc8425a41a.js.map"
+    ],
+    "path---anadir-ssl-a-tu-aplicacion-web-dockerizada": [
+      "path---anadir-ssl-a-tu-aplicacion-web-dockerizada-fab6cdeb9ef1be381b43.js",
+      "path---anadir-ssl-a-tu-aplicacion-web-dockerizada-fab6cdeb9ef1be381b43.js.map"
+    ],
+    "path---working-class-heroes": [
+      "path---working-class-heroes-7973d76b0fc6877f4c78.js",
+      "path---working-class-heroes-7973d76b0fc6877f4c78.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---educaas-soberania-digital-3": [
+      "path---educaas-soberania-digital-3-1ca82f2efcd339e07c3e.js",
+      "path---educaas-soberania-digital-3-1ca82f2efcd339e07c3e.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-fd7e0af16ba290fa3dee.js",
+      "component---src-pages-index-jsx-fd7e0af16ba290fa3dee.js.map"
+    ],
+    "path---categories-desarrollo-web": [
+      "path---categories-desarrollo-web-a4b554cf33ea66bbe285.js",
+      "path---categories-desarrollo-web-a4b554cf33ea66bbe285.js.map"
+    ],
+    "path---educaas-soberania-digital-2": [
+      "path---educaas-soberania-digital-2-5d66923ae03dc874c32c.js",
+      "path---educaas-soberania-digital-2-5d66923ae03dc874c32c.js.map"
+    ],
+    "path---el-ano-de-sofia": [
+      "path---el-ano-de-sofia-441e044e385133ae7d7a.js",
+      "path---el-ano-de-sofia-441e044e385133ae7d7a.js.map"
+    ],
+    "app": [
+      "app-32f6d01cb902a151fd24.js",
+      "app-32f6d01cb902a151fd24.js.map"
+    ],
+    "path---guarda-contenido-web-wallabag": [
+      "path---guarda-contenido-web-wallabag-0251cba1865900472e37.js",
+      "path---guarda-contenido-web-wallabag-0251cba1865900472e37.js.map"
+    ],
+    "path---etiquetas-facebook-gatsbyjs": [
+      "path---etiquetas-facebook-gatsbyjs-3aa1f53e1b080a1a2cc9.js",
+      "path---etiquetas-facebook-gatsbyjs-3aa1f53e1b080a1a2cc9.js.map"
+    ],
+    "path---404": [
+      "path---404-1005fcf791946d565c10.js",
+      "path---404-1005fcf791946d565c10.js.map"
+    ],
+    "path---categories-memorias": [
+      "path---categories-memorias-aca0f48eea5d8079fbb4.js",
+      "path---categories-memorias-aca0f48eea5d8079fbb4.js.map"
+    ],
+    "path---actualizando-educaas-rancher-nueva-version": [
+      "path---actualizando-educaas-rancher-nueva-version-9469422146ac4bbc87f3.js",
+      "path---actualizando-educaas-rancher-nueva-version-9469422146ac4bbc87f3.js.map"
+    ],
+    "path---about": [
+      "path---about-71f0579ecfd96dc634f6.js",
+      "path---about-71f0579ecfd96dc634f6.js.map"
+    ]
+  }
+}
