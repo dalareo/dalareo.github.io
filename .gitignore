@@ -1,8 +1,10 @@
 node_modules/
-public
+.cache/
+public/
 *.log
 .gatsby-context.js
 pages/.manifest
 .idea
 gatsby-starter-lumen.iml
 package-lock.json
+yarn.lock
