@@ -14,13 +14,6 @@
         "path": "/about"
     },
     {
-        "componentChunkName": "component---src-templates-page-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "projects.json",
-        "path": "/projects"
-    },
-    {
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
@@ -38,6 +31,13 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "crea-tu-propia-red-de-wordpress.json",
+        "path": "/crea-tu-propia-red-de-wordpress/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "el-ano-de-sofia.json",
         "path": "/el-año-de-sofia/"
     },
@@ -47,13 +47,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-pensamiento.json",
         "path": "/categories/pensamiento/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "crea-tu-propia-red-de-wordpress.json",
-        "path": "/crea-tu-propia-red-de-wordpress/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",
@@ -89,6 +82,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "docker-compose-y-wordpress-juntos-pero-no-revueltos.json",
         "path": "/docker-compose-y-wordpress-juntos-pero-no-revueltos/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "projects.json",
+        "path": "/projects"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",
@@ -164,6 +164,20 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "openedx-contenedores-docker.json",
+        "path": "/openedx-contenedores-docker/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "educaas-soberania-digital-2.json",
+        "path": "/educaas-soberania-digital-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "educaas-soberania-digital-3.json",
         "path": "/educaas-soberania-digital-3/"
     },
@@ -180,20 +194,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "documentar-para-compartir.json",
         "path": "/documentar-para-compartir/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "openedx-contenedores-docker.json",
-        "path": "/openedx-contenedores-docker/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "educaas-soberania-digital-2.json",
-        "path": "/educaas-soberania-digital-2/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",

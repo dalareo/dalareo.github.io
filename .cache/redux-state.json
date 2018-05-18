@@ -1854,12 +1854,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-17T17:25:54.184Z",
+      "buildTime": "2018-05-18T08:38:24.044Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "93a8548c73e39dccd396c76e0ba576c7",
+        "contentDigest": "cdb7520e8be01268a6cec5ad59fbc75a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3311,112 +3311,6 @@
         "slug": "/about/"
       }
     },
-    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
-      "children": [
-        "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b2706a4ac08ff315a91f84a5dec6369d",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/pages/2018-05-17---projects/index.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md",
-      "relativePath": "pages/2018-05-17---projects/index.md",
-      "extension": "md",
-      "size": 584,
-      "prettySize": "584 B",
-      "modifiedTime": "2018-05-17T16:02:21.417Z",
-      "accessTime": "2018-05-17T17:24:35.007Z",
-      "changeTime": "2018-05-17T17:24:20.934Z",
-      "birthTime": "2018-05-17T17:24:20.934Z",
-      "root": "/",
-      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "pages/2018-05-17---projects",
-      "dev": 2049,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4595698,
-      "blocks": 8,
-      "atimeMs": 1526577875007.44,
-      "mtimeMs": 1526572941417.318,
-      "ctimeMs": 1526577860934.1062,
-      "birthtimeMs": 1526577860934.1062,
-      "atime": "2018-05-17T17:24:35.007Z",
-      "mtime": "2018-05-17T16:02:21.417Z",
-      "ctime": "2018-05-17T17:24:20.934Z",
-      "birthtime": "2018-05-17T17:24:20.934Z",
-      "fields": {
-        "slug": "/projects/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file",
-      "children": [
-        "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "81a1f4266635a26237e199a89fccc6e2",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/pages/2018-05-17---projects/xtribeu.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg",
-      "relativePath": "pages/2018-05-17---projects/xtribeu.jpg",
-      "extension": "jpg",
-      "size": 17492,
-      "prettySize": "17.5 kB",
-      "modifiedTime": "2018-05-17T14:31:21.367Z",
-      "accessTime": "2018-05-17T17:24:35.011Z",
-      "changeTime": "2018-05-17T17:24:20.934Z",
-      "birthTime": "2018-05-17T17:24:20.934Z",
-      "root": "/",
-      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects",
-      "base": "xtribeu.jpg",
-      "ext": ".jpg",
-      "name": "xtribeu",
-      "relativeDirectory": "pages/2018-05-17---projects",
-      "dev": 2049,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4595700,
-      "blocks": 40,
-      "atimeMs": 1526577875010.7732,
-      "mtimeMs": 1526567481367.183,
-      "ctimeMs": 1526577860934.1062,
-      "birthtimeMs": 1526577860934.1062,
-      "atime": "2018-05-17T17:24:35.011Z",
-      "mtime": "2018-05-17T14:31:21.367Z",
-      "ctime": "2018-05-17T17:24:20.934Z",
-      "birthtime": "2018-05-17T17:24:20.934Z",
-      "fields": {
-        "slug": "/projects/"
-      }
-    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md absPath of file": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md absPath of file",
       "children": [
@@ -3786,6 +3680,112 @@
       "birthtime": "2018-05-17T17:24:20.794Z",
       "fields": {
         "slug": "/undefined/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
+      "children": [
+        "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b2706a4ac08ff315a91f84a5dec6369d",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/pages/2018-05-17---projects/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md",
+      "relativePath": "pages/2018-05-17---projects/index.md",
+      "extension": "md",
+      "size": 584,
+      "prettySize": "584 B",
+      "modifiedTime": "2018-05-17T16:02:21.417Z",
+      "accessTime": "2018-05-17T17:24:35.007Z",
+      "changeTime": "2018-05-17T17:24:20.934Z",
+      "birthTime": "2018-05-17T17:24:20.934Z",
+      "root": "/",
+      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pages/2018-05-17---projects",
+      "dev": 2049,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4595698,
+      "blocks": 8,
+      "atimeMs": 1526577875007.44,
+      "mtimeMs": 1526572941417.318,
+      "ctimeMs": 1526577860934.1062,
+      "birthtimeMs": 1526577860934.1062,
+      "atime": "2018-05-17T17:24:35.007Z",
+      "mtime": "2018-05-17T16:02:21.417Z",
+      "ctime": "2018-05-17T17:24:20.934Z",
+      "birthtime": "2018-05-17T17:24:20.934Z",
+      "fields": {
+        "slug": "/projects/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file",
+      "children": [
+        "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81a1f4266635a26237e199a89fccc6e2",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/pages/2018-05-17---projects/xtribeu.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg",
+      "relativePath": "pages/2018-05-17---projects/xtribeu.jpg",
+      "extension": "jpg",
+      "size": 17492,
+      "prettySize": "17.5 kB",
+      "modifiedTime": "2018-05-17T14:31:21.367Z",
+      "accessTime": "2018-05-17T17:24:35.011Z",
+      "changeTime": "2018-05-17T17:24:20.934Z",
+      "birthTime": "2018-05-17T17:24:20.934Z",
+      "root": "/",
+      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects",
+      "base": "xtribeu.jpg",
+      "ext": ".jpg",
+      "name": "xtribeu",
+      "relativeDirectory": "pages/2018-05-17---projects",
+      "dev": 2049,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4595700,
+      "blocks": 40,
+      "atimeMs": 1526577875010.7732,
+      "mtimeMs": 1526567481367.183,
+      "ctimeMs": 1526577860934.1062,
+      "birthtimeMs": 1526577860934.1062,
+      "atime": "2018-05-17T17:24:35.011Z",
+      "mtime": "2018-05-17T14:31:21.367Z",
+      "ctime": "2018-05-17T17:24:20.934Z",
+      "birthtime": "2018-05-17T17:24:20.934Z",
+      "fields": {
+        "slug": "/projects/"
       }
     },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-03-03-ponte-las-pilas-con-el-software-libre/index.md absPath of file": {
@@ -4371,59 +4371,6 @@
         "slug": "/undefined/"
       }
     },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file",
-      "children": [
-        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5983baa364b46352f1e8631d775b47d7",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md",
-      "relativePath": "articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md",
-      "extension": "md",
-      "size": 2959,
-      "prettySize": "2.96 kB",
-      "modifiedTime": "2018-05-17T16:48:00.007Z",
-      "accessTime": "2018-05-17T17:24:35.004Z",
-      "changeTime": "2018-05-17T17:24:20.927Z",
-      "birthTime": "2018-05-17T17:24:20.927Z",
-      "root": "/",
-      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "articles/2017-01-27-crear-imagenes-docker-actualizadas",
-      "dev": 2049,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4595685,
-      "blocks": 8,
-      "atimeMs": 1526577875004.1064,
-      "mtimeMs": 1526575680007.385,
-      "ctimeMs": 1526577860927.4395,
-      "birthtimeMs": 1526577860927.4395,
-      "atime": "2018-05-17T17:24:35.004Z",
-      "mtime": "2018-05-17T16:48:00.007Z",
-      "ctime": "2018-05-17T17:24:20.927Z",
-      "birthtime": "2018-05-17T17:24:20.927Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/instalar_openedx.png absPath of file": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/instalar_openedx.png absPath of file",
       "children": [
@@ -4477,6 +4424,122 @@
         "slug": "/undefined/"
       }
     },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file",
+      "children": [
+        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5983baa364b46352f1e8631d775b47d7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md",
+      "relativePath": "articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md",
+      "extension": "md",
+      "size": 2959,
+      "prettySize": "2.96 kB",
+      "modifiedTime": "2018-05-17T16:48:00.007Z",
+      "accessTime": "2018-05-17T17:24:35.004Z",
+      "changeTime": "2018-05-17T17:24:20.927Z",
+      "birthTime": "2018-05-17T17:24:20.927Z",
+      "root": "/",
+      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2017-01-27-crear-imagenes-docker-actualizadas",
+      "dev": 2049,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4595685,
+      "blocks": 8,
+      "atimeMs": 1526577875004.1064,
+      "mtimeMs": 1526575680007.385,
+      "ctimeMs": 1526577860927.4395,
+      "birthtimeMs": 1526577860927.4395,
+      "atime": "2018-05-17T17:24:35.004Z",
+      "mtime": "2018-05-17T16:48:00.007Z",
+      "ctime": "2018-05-17T17:24:20.927Z",
+      "birthtime": "2018-05-17T17:24:20.927Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file",
+      "internal": {
+        "contentDigest": "38e23e93e0f26fd7b82a4604bbf9f78f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file",
+      "children": [
+        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dc156a7f8641bd71cc5226be26066522",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png",
+      "relativePath": "articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png",
+      "extension": "png",
+      "size": 67281,
+      "prettySize": "67.3 kB",
+      "modifiedTime": "2018-05-17T14:31:21.367Z",
+      "accessTime": "2018-05-17T17:24:35.004Z",
+      "changeTime": "2018-05-17T17:24:20.931Z",
+      "birthTime": "2018-05-17T17:24:20.931Z",
+      "root": "/",
+      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4",
+      "base": "reglas_lb.png",
+      "ext": ".png",
+      "name": "reglas_lb",
+      "relativeDirectory": "articles/2017-01-31-soberania-tecnologica-educaas-4",
+      "dev": 2049,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4595691,
+      "blocks": 136,
+      "atimeMs": 1526577875004.1064,
+      "mtimeMs": 1526567481367.183,
+      "ctimeMs": 1526577860930.773,
+      "birthtimeMs": 1526577860930.773,
+      "atime": "2018-05-17T17:24:35.004Z",
+      "mtime": "2018-05-17T14:31:21.367Z",
+      "ctime": "2018-05-17T17:24:20.931Z",
+      "birthtime": "2018-05-17T17:24:20.931Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/index.md absPath of file": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/index.md absPath of file",
       "children": [
@@ -4526,6 +4589,59 @@
       "mtime": "2018-05-17T16:48:08.721Z",
       "ctime": "2018-05-17T17:24:20.927Z",
       "birthtime": "2018-05-17T17:24:20.927Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file",
+      "children": [
+        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8bc88b88c3e60eab7a6d9c4efd3b0cd6",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png",
+      "relativePath": "articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png",
+      "extension": "png",
+      "size": 72728,
+      "prettySize": "72.7 kB",
+      "modifiedTime": "2018-05-17T14:31:21.364Z",
+      "accessTime": "2018-05-17T17:24:35.004Z",
+      "changeTime": "2018-05-17T17:24:20.931Z",
+      "birthTime": "2018-05-17T17:24:20.931Z",
+      "root": "/",
+      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3",
+      "base": "dashboard_educaas.png",
+      "ext": ".png",
+      "name": "dashboard_educaas",
+      "relativeDirectory": "articles/2017-01-31-soberania-tecnologica-educaas-3",
+      "dev": 2049,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4595688,
+      "blocks": 144,
+      "atimeMs": 1526577875004.1064,
+      "mtimeMs": 1526567481363.849,
+      "ctimeMs": 1526577860930.773,
+      "birthtimeMs": 1526577860930.773,
+      "atime": "2018-05-17T17:24:35.004Z",
+      "mtime": "2018-05-17T14:31:21.364Z",
+      "ctime": "2018-05-17T17:24:20.931Z",
+      "birthtime": "2018-05-17T17:24:20.931Z",
       "fields": {
         "slug": "/undefined/"
       }
@@ -4636,122 +4752,6 @@
         "slug": "/undefined/"
       }
     },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file",
-      "children": [
-        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8bc88b88c3e60eab7a6d9c4efd3b0cd6",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png",
-      "relativePath": "articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png",
-      "extension": "png",
-      "size": 72728,
-      "prettySize": "72.7 kB",
-      "modifiedTime": "2018-05-17T14:31:21.364Z",
-      "accessTime": "2018-05-17T17:24:35.004Z",
-      "changeTime": "2018-05-17T17:24:20.931Z",
-      "birthTime": "2018-05-17T17:24:20.931Z",
-      "root": "/",
-      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3",
-      "base": "dashboard_educaas.png",
-      "ext": ".png",
-      "name": "dashboard_educaas",
-      "relativeDirectory": "articles/2017-01-31-soberania-tecnologica-educaas-3",
-      "dev": 2049,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4595688,
-      "blocks": 144,
-      "atimeMs": 1526577875004.1064,
-      "mtimeMs": 1526567481363.849,
-      "ctimeMs": 1526577860930.773,
-      "birthtimeMs": 1526577860930.773,
-      "atime": "2018-05-17T17:24:35.004Z",
-      "mtime": "2018-05-17T14:31:21.364Z",
-      "ctime": "2018-05-17T17:24:20.931Z",
-      "birthtime": "2018-05-17T17:24:20.931Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file",
-      "children": [
-        "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "dc156a7f8641bd71cc5226be26066522",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png",
-      "relativePath": "articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png",
-      "extension": "png",
-      "size": 67281,
-      "prettySize": "67.3 kB",
-      "modifiedTime": "2018-05-17T14:31:21.367Z",
-      "accessTime": "2018-05-17T17:24:35.004Z",
-      "changeTime": "2018-05-17T17:24:20.931Z",
-      "birthTime": "2018-05-17T17:24:20.931Z",
-      "root": "/",
-      "dir": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4",
-      "base": "reglas_lb.png",
-      "ext": ".png",
-      "name": "reglas_lb",
-      "relativeDirectory": "articles/2017-01-31-soberania-tecnologica-educaas-4",
-      "dev": 2049,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4595691,
-      "blocks": 136,
-      "atimeMs": 1526577875004.1064,
-      "mtimeMs": 1526567481367.183,
-      "ctimeMs": 1526577860930.773,
-      "birthtimeMs": 1526577860930.773,
-      "atime": "2018-05-17T17:24:35.004Z",
-      "mtime": "2018-05-17T14:31:21.367Z",
-      "ctime": "2018-05-17T17:24:20.931Z",
-      "birthtime": "2018-05-17T17:24:20.931Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/photo.jpg absPath of file",
-      "internal": {
-        "contentDigest": "38e23e93e0f26fd7b82a4604bbf9f78f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file >> ImageSharp": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/xtribeu.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -4825,22 +4825,22 @@
         "slug": "/projects/"
       }
     },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file",
-      "internal": {
-        "contentDigest": "8bc88b88c3e60eab7a6d9c4efd3b0cd6",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file >> ImageSharp": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file >> ImageSharp",
       "children": [],
       "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-4/reglas_lb.png absPath of file",
       "internal": {
         "contentDigest": "dc156a7f8641bd71cc5226be26066522",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/dashboard_educaas.png absPath of file",
+      "internal": {
+        "contentDigest": "8bc88b88c3e60eab7a6d9c4efd3b0cd6",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -4882,33 +4882,6 @@
         "slug": "/about"
       }
     },
-    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Proyectos\"\nlayout: page\npath: \"/projects\"\ndescription: \"Estos son los proyectos en los que estoy colaborando.\"\n---\n<name> | <description>\n--- | ---\n[![FricolaB](https://fricolab.github.io/images/logo_fricolaB.png)](https://fricolab.com) | People oriented open source software\n[![EduCaaS](./educaas.png)](http://educaas.io) | Digital learning and creative environment powered by microservices\n![XtribeU](./xtribeu.jpg) | We are a startup working with a network of universities, companies and civic orgs to transform learning globally through entrepreneurship and technology",
-        "type": "MarkdownRemark",
-        "contentDigest": "687235b8505685bc0e8568be29ce48d6",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Proyectos",
-        "layout": "page",
-        "path": "/projects",
-        "description": "Estos son los proyectos en los que estoy colaborando.",
-        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
-        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md",
-      "fields": {
-        "slug": "/projects"
-      }
-    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -4938,6 +4911,38 @@
       "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md",
       "fields": {
         "slug": "/aplicaciones-html5/",
+        "categorySlug": "/categories/desarrollo-web/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Crea tu propia red de WordPress\"\ndate: \"2015-02-05\"\nlayout: post\ndraft: false\npath: \"/crea-tu-propia-red-de-wordpress/\"\ncategory: \"desarrollo web\"\ndescription: \"Desde la versión 3.0 WordPress, el gestor de contenidos más popular en la web (alcanzando casi el 50% de todos los sitios web publicados)), nos permite configurar una red de blogs\"\n---\n\n\n\nDesde la versión 3.0 [WordPress](https://wordpress.org/ \"Wordpress\"), **el gestor de contenidos más popular en la web** (alcanzando casi el 50% de todos los sitios web publicados [http://trends.builtwith.com/cms](http://trends.builtwith.com/cms \"CMS Technologies Web Usage Statistics\")), nos permite configurar una **red de blogs**, una funcionalidad anteriormente disponible en [WordPress Multisite](https://mu.wordpress.org/ \"Multisite Wordrpess\"). Esta funcionalidad tiene especial interés si queremos construir **una comunidad de sitios web similar a WordPress.com**, asignando a cada uno de los sitios una URL personalizada, pero compartiendo todos ellos un mismo dominio. Imagina una **web corporativa** en la que queremos incluir distintos blogs, de temáticas diferentes, o de autores diferentes, identificados en la **URL con subdominios diferentes** pero todos ellos compartiendo el mismo dominio, algo así como:\n\n    tecnología.dominio.com\n    emprendimiento.dominio.com\n    formacion.dominio.com`\n\nPues bien, para ello tendríamos que **hacer que cada subdominio apuntase a un blog diferente**, todos ellos relacionados y formando una única red que se podría administrar conjuntamente, especificando los plugins disponibles, los temas y otros elementos comunes.\n\nSi sabemos de antemano el número de blogs que vamos a crear tendremos que **añadir a la configuración de Apache el nombre de los subdominios**, como por ejemplo en:\n\n    ServerName dominio.com\n    ServerAlias dominio.com subdominio1.domain.com\n    subdominio2.dominio.com\n    DocumentRoot\n    /var/www/directorio_en_el_que_está_instalado_wordpress`\n\nPero quizá **querramos ir creando distintos blogs**, o bien **permitir que los usuarios creen su propio blog sin tener que estar modificando la configuración de nuestro servidor web**. Para ello incluiremos un **wildcard** en el nombre del servidor, quedando la configuración de la siguiente manera:\n\n    ServerName wordpress.dev\n    ServerAlias *.wordpress.dev\n    ServerAdmin webmaster@localhost\n    DocumentRoot\n    /var/www/html/directorio_en_el_que_está_instalado_wordpress`\n\nRecuerda además de **incluir las siguientes directivas** en el directorio en el que quieres instalar WordPress:\n\n    <Directory\n    /var/www/html/directorio_en_el_que_está_instalado_wordpress>\n    AllowOverride Fileinfo Options\n    AllowOverride All\n    </Directory>`\n\nAhora el siguiente paso será **editar tu archivo wp-config.php** para incluir lo siguiente:\n\n    /* Multisite */\n    define( 'WP_ALLOW_MULTISITE', true );\n    define('MULTISITE', true);\n    define('SUBDOMAIN_INSTALL', true);\n    define('DOMAIN_CURRENT_SITE', 'dominio.com');\n    define('PATH_CURRENT_SITE', '/');\n    define('SITE_ID_CURRENT_SITE', 1);\n    define('BLOG_ID_CURRENT_SITE', 1);`\n\nEso es todo. Ya tenemos nuestra red de WordPress activa y cada uno de los distintos blogs asignado a un subdominio diferente.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "229faf8a78c6527e70ae31443f96e244",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Crea tu propia red de WordPress",
+        "date": "2015-02-05",
+        "layout": "post",
+        "draft": false,
+        "path": "/crea-tu-propia-red-de-wordpress/",
+        "category": "desarrollo web",
+        "description": "Desde la versión 3.0 WordPress, el gestor de contenidos más popular en la web (alcanzando casi el 50% de todos los sitios web publicados)), nos permite configurar una red de blogs",
+        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file",
+        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md",
+      "fields": {
+        "slug": "/crea-tu-propia-red-de-wordpress/",
         "categorySlug": "/categories/desarrollo-web/"
       }
     },
@@ -4971,38 +4976,6 @@
       "fields": {
         "slug": "/el-año-de-sofia/",
         "categorySlug": "/categories/pensamiento/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Crea tu propia red de WordPress\"\ndate: \"2015-02-05\"\nlayout: post\ndraft: false\npath: \"/crea-tu-propia-red-de-wordpress/\"\ncategory: \"desarrollo web\"\ndescription: \"Desde la versión 3.0 WordPress, el gestor de contenidos más popular en la web (alcanzando casi el 50% de todos los sitios web publicados)), nos permite configurar una red de blogs\"\n---\n\n\n\nDesde la versión 3.0 [WordPress](https://wordpress.org/ \"Wordpress\"), **el gestor de contenidos más popular en la web** (alcanzando casi el 50% de todos los sitios web publicados [http://trends.builtwith.com/cms](http://trends.builtwith.com/cms \"CMS Technologies Web Usage Statistics\")), nos permite configurar una **red de blogs**, una funcionalidad anteriormente disponible en [WordPress Multisite](https://mu.wordpress.org/ \"Multisite Wordrpess\"). Esta funcionalidad tiene especial interés si queremos construir **una comunidad de sitios web similar a WordPress.com**, asignando a cada uno de los sitios una URL personalizada, pero compartiendo todos ellos un mismo dominio. Imagina una **web corporativa** en la que queremos incluir distintos blogs, de temáticas diferentes, o de autores diferentes, identificados en la **URL con subdominios diferentes** pero todos ellos compartiendo el mismo dominio, algo así como:\n\n    tecnología.dominio.com\n    emprendimiento.dominio.com\n    formacion.dominio.com`\n\nPues bien, para ello tendríamos que **hacer que cada subdominio apuntase a un blog diferente**, todos ellos relacionados y formando una única red que se podría administrar conjuntamente, especificando los plugins disponibles, los temas y otros elementos comunes.\n\nSi sabemos de antemano el número de blogs que vamos a crear tendremos que **añadir a la configuración de Apache el nombre de los subdominios**, como por ejemplo en:\n\n    ServerName dominio.com\n    ServerAlias dominio.com subdominio1.domain.com\n    subdominio2.dominio.com\n    DocumentRoot\n    /var/www/directorio_en_el_que_está_instalado_wordpress`\n\nPero quizá **querramos ir creando distintos blogs**, o bien **permitir que los usuarios creen su propio blog sin tener que estar modificando la configuración de nuestro servidor web**. Para ello incluiremos un **wildcard** en el nombre del servidor, quedando la configuración de la siguiente manera:\n\n    ServerName wordpress.dev\n    ServerAlias *.wordpress.dev\n    ServerAdmin webmaster@localhost\n    DocumentRoot\n    /var/www/html/directorio_en_el_que_está_instalado_wordpress`\n\nRecuerda además de **incluir las siguientes directivas** en el directorio en el que quieres instalar WordPress:\n\n    <Directory\n    /var/www/html/directorio_en_el_que_está_instalado_wordpress>\n    AllowOverride Fileinfo Options\n    AllowOverride All\n    </Directory>`\n\nAhora el siguiente paso será **editar tu archivo wp-config.php** para incluir lo siguiente:\n\n    /* Multisite */\n    define( 'WP_ALLOW_MULTISITE', true );\n    define('MULTISITE', true);\n    define('SUBDOMAIN_INSTALL', true);\n    define('DOMAIN_CURRENT_SITE', 'dominio.com');\n    define('PATH_CURRENT_SITE', '/');\n    define('SITE_ID_CURRENT_SITE', 1);\n    define('BLOG_ID_CURRENT_SITE', 1);`\n\nEso es todo. Ya tenemos nuestra red de WordPress activa y cada uno de los distintos blogs asignado a un subdominio diferente.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "229faf8a78c6527e70ae31443f96e244",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Crea tu propia red de WordPress",
-        "date": "2015-02-05",
-        "layout": "post",
-        "draft": false,
-        "path": "/crea-tu-propia-red-de-wordpress/",
-        "category": "desarrollo web",
-        "description": "Desde la versión 3.0 WordPress, el gestor de contenidos más popular en la web (alcanzando casi el 50% de todos los sitios web publicados)), nos permite configurar una red de blogs",
-        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file",
-        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md",
-      "fields": {
-        "slug": "/crea-tu-propia-red-de-wordpress/",
-        "categorySlug": "/categories/desarrollo-web/"
       }
     },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-04-01-je-suis-andreas/index.md absPath of file >>> MarkdownRemark": {
@@ -5099,6 +5072,33 @@
       "fields": {
         "slug": "/docker-compose-y-wordpress-juntos-pero-no-revueltos/",
         "categorySlug": "/categories/desarrollo-web/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Proyectos\"\nlayout: page\npath: \"/projects\"\ndescription: \"Estos son los proyectos en los que estoy colaborando.\"\n---\n<name> | <description>\n--- | ---\n[![FricolaB](https://fricolab.github.io/images/logo_fricolaB.png)](https://fricolab.com) | People oriented open source software\n[![EduCaaS](./educaas.png)](http://educaas.io) | Digital learning and creative environment powered by microservices\n![XtribeU](./xtribeu.jpg) | We are a startup working with a network of universities, companies and civic orgs to transform learning globally through entrepreneurship and technology",
+        "type": "MarkdownRemark",
+        "contentDigest": "687235b8505685bc0e8568be29ce48d6",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Proyectos",
+        "layout": "page",
+        "path": "/projects",
+        "description": "Estos son los proyectos en los que estoy colaborando.",
+        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file",
+        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md",
+      "fields": {
+        "slug": "/projects"
       }
     },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-12-01-gaiteira/index.md absPath of file >>> MarkdownRemark": {
@@ -5421,6 +5421,70 @@
         "categorySlug": "/categories/desarrollo-web/"
       }
     },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"OpenedX en contenedores Docker\"\ndate: \"2016-12-30\"\nlayout: post\ndraft: false\npath: \"/openedx-contenedores-docker/\"\ncategory: \"desarrollo web\"\ndescription: \"Open edX es la plataforma de código abierto que alimenta los cursos de edX, el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...\"\n---\n[Open edX](https://open.edx.org) es la plataforma de código abierto que alimenta los cursos de [edX](https://www.edx.org/), el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...\n\n## El código\n\nSí, vale, de **código abierto**, bien. Pero, ¿cómo leches accedo al código de un proyecto que me dicen que es de código abierto? Bueno, pues existen muchas herramientas para compartir el código de un proyecto de software, pero la más común ahora mismo es [Github](htttps://github.com). Github se ha convertido en los últimos cinco años en el principal fuente a la hora de alojar y colaborar en el software de código abierto, aunque, paradójicamente, el código de Github no está disponible. En [este post](https://about.gitlab.com/2016/07/20/gitlab-is-open-core-github-is-closed-source/) el CEO de [Gitlab](https://about.gitlab.com/), principal alternativa libre a Github, nos amplia este \"pequeño detalle\".\n\nEn el caso de Open edX disponemos de un gran número de repositorios disponibles en su perfil de Github: https://github.com/edx. El perfil es de los más activos que he visto, con modificaciones cada hora e incluso cada minuto, lo cual nos indica que el compromiso de Open edX con la comuniad de sofware abierto es alto y que su equipo es muy activo.\n\nEl respositorio que contiene el código de la plataforma es https://github.com/edx/edx-platform pero el repositorio que nos interesa para instalar o personalizar nuestra instalación es https://github.com/edx/configuration. En él podremos encontrar recursos para proceder a la instalación de la plataforma, tanto en su versión de **desarrollo**, como la versión de **producción**\n\n## Desarrollo, producción, nativa, vagrant,...\n\nEn la documentación del proyecto, que está un poco \"desperdigada\" entre [Atlassian Confluence](https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+Operations+Home), la [Wiki de Github](https://github.com/edx/configuration/wiki) y una [web propia de documentación](http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/), podemos encontrar varias propuestas para proceder a la instalación de la plataforma Open edX: https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+Installation+Options\n\nBásicamente hay dos modalidades de instalación:\n- **Devstack**: Interesante si vas a hacer modificaciones en el código de Open edX y más ligera, con menos servicios\n- **Fullstack**: Instalación que integra todos los servicios necesarios para tener Open edX en producción: lms, cms, forum, analytics, etc.\n\nTambién hay otras opciones de instalación disponibles en la Wiki, incluyendo una instalación nativa en Ubuntu 12.04, así como una máquina virtual de Bitnami. Desde hace unos días también hay instrucciones para hacer la instalación en Ubuntu 16.04: https://openedx.atlassian.net/wiki/display/OpenOPS/Native+Open+edX+Ubuntu+16.04+64+bit+Installation. Los requisitos para la instalación son una máquina con al menos 4GB de RAM, una CPU de 2,00GHz y un mínimo de 25GB de RAM. Con estos requisitos nos podemos ir olvidando de instalar Open edX en un servidor compartido o en un droplet baratito de [Digital Ocean](https://www.digitalocean.com/). Estos requisitos implican alquilar un servidor cuyo **coste será de 50€/mes**, aproximadamente.\n\nLa opción más sencilla para disponer de una instalación de Open edX operativa es utilizar [Vagrant](https://www.vagrantup.com/) para aprovisionar una máquina virtual que contenga todos los servicios necesarios. La instalación **fullstack** con Vagarant está descrita aquí: https://openedx.atlassian.net/wiki/display/OpenOPS/Running+Fullstack. Estas instrucciones indican además algunos usuarios de ejemplo para poder comenzar a utilizar Open edX. Este método puede ser útil para probar en nuestro servidor local o para una instalación sin muchas pretensiones, pero tener en producción todos los servicios en una máquina virtual no es lo más deseable. La razón fundamental es que si nos falla esa máquina... se caerá todo el sistema!! La otra razaón fundamental es que nos encontraremos con una infraestructura muy grande y su manejo no será muy ágil, en relación a escalado, copias de seguridad, etc.\n\n## Y en esto llegó Docker\n\nLos que seguís mi actividad en las redes sociales sabéis que desde que me encontré con Docker, hace ya tres años, no dejo de hacer apología de su uso, pues considero que sus ventajas son infinitas frente a los métodos convencionales de ejecutar, construir y aprovisionar software. Existen sin duda motivos para no ser demasiado optimistas y razones para no \"entregarnos totalmente a Docker\", como la dependencia de un único fabricante -recordemos que Docker no es un standar, sino un proyecto open source desarrollado por una compañía privada- o la existencia de otros proyectos similares que podrían tener las mismas prestaciones si contaran con los recursos suficientes, como https://github.com/opencontainers/runc o https://github.com/lxc/lxc.\n\nSin embargo, más allá de estas cuestiones de \"gobernanza\" que, no siendo poco relevantes, no afectan a la utilidad de Docker como herramienta, Docker es la principal apuesta de la comunidad open source para ejecutar y aprovisionar software en la nube. Una prueba de ello es la proliferación de servicios CAAS, las siglas de \"Container as a Service\". Tanto Amazon con su [EC2 Container Service](https://aws.amazon.com/es/ecs/) como Rackspace con [Carina](https://getcarina.com/), un proyecto que utilizamos en [EduCaaS](http://educaas.io) en su fase beta, o Microsoft y su recientemente anunciado [servicio de contenedores](https://azure.microsoft.com/es-es/services/container-service/) cuentan con plataformas en la nube basadas en Docker o en alguna de sus alternativas comerciales, como [Kubernetes](http://kubernetes.io/) (de Google) o [Mesos](http://mesos.apache.org/) (de Apache).\n\n## La dockerización de Open edX\n\nLa comunidad de desarrolladores alrededor de Open edX lleva ya años avanzando en el diseño de un método de instalación basado en Docker. Existe un canal de comunicación en el [Slack oficial del proyecto](https://openedx-slack-invite.herokuapp.com/) dedicado en exclusividad a este menester, pero no es todo lo activo que muchos desearíamos. Los avances en el repositorio oficial de Open edX no son muy grandes. Existen algunas indicaciones en la wiki del proyecto en relación a los avances ya realizados y las necesidades: https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+on+Docker\n\nEn el repositorio oficial ya se incorporan desde hace algunos meses métodos para aprovisionar los distintos servicios usando Docker: https://github.com/edx/configuration/tree/master/docker/build. Además, gracias a la colaboración del equipo de [Appsembler](http://www.appsembler.com/), el principal proveedor a nivel internacional de servicios tecnológicos relacionados con Open edX, contamos con algunas imágenes \"out-of-the-box\" que nos permiten ejecutar Open edX en un único contenedor. Esta es la imagen que utilizamos desde hace ya tiempo en la instalación de pruebas que tenemos dispobile en [FricolaB](http://fricolab.com) [aquí](http://mooc.fricolab.com). Me gustaría desde aquí aprovechar para agradecer personalmente a su CEO, Nate Aune, por su compromiso con el proyecto y su apoyo.\n\nSin embargo, es desde el otro lado del mundo desde el que me ha llegado la inspiración y el talento para poder construir una instalación de Open edX basada en Docker y lo suficientemente estable y potente para alimentar una plataforma en producción. Descubrir este proyecto de [Josh Calder](https://github.com/borisno2) (fundador de http://www.opensaas.com.au/) ha sido fundamental: https://github.com/OpenSaasAU/edx-docker-ansible. En él, Josh utiliza una nueva tecnología **ansible-container** que integra la capacidad de [Ansible](https://www.ansible.com/) para diseñar los aprovisionamientos con la potencia de **Docker**. De esta manera podemos reutilizar el repositorio oficial de Open edX y sus **playbooks** para construir una image independiente de cada uno de los servicios de los que está compuesto Open edX.\n\n## ¿Open edX en EduCaaS?\n\nPero Josh ha ido más lejos aún y ha diseñado también una plantilla para integrar esa instalación **dockerizada** de Open edX en [Rancher](http://rancher.com/), el backend que utiliza EduCaaS para orquestar y organizar el catálogo de aplicaciones disponible para nuestros clientes. En este proyecto, https://github.com/OpenSaasAU/RancherTemplates, podemos obtener las plantillas para **Rancher**, que en unos días integraremos en EduCaaS para poder incluir Open edX en nuestro [catálogo de aplicaciones](https://github.com/EduCaaS/catalog).\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "e618008e4fe2d6c6b2bc5826fa387a23",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "OpenedX en contenedores Docker",
+        "date": "2016-12-30",
+        "layout": "post",
+        "draft": false,
+        "path": "/openedx-contenedores-docker/",
+        "category": "desarrollo web",
+        "description": "Open edX es la plataforma de código abierto que alimenta los cursos de edX, el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...",
+        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file",
+        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md",
+      "fields": {
+        "slug": "/openedx-contenedores-docker/",
+        "categorySlug": "/categories/desarrollo-web/"
+      }
+    },
+    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"EduCaaS y la soberanía tecnológica (2)\"\ndate: \"2017-01-13\"\nlayout: post\ndraft: false\npath: \"/educaas-soberania-digital-2/\"\ncategory: \"desarrollo web\"\ndescription: \"En este post abordaré algunas cuestiones técnicas relativas a la arquitectura de EduCaaS y como ayudan a avanzar hacia un mayor control del usuario sobre los contenidos y las aplicaciones que construye. Docker es una herramienta fundamental en la nueva web programable. Bajo el lema de run, ship and build el uso de los contenedores facilita el diseño de arquitecturas complejas y modulares basadas en elementos compactos fáciles de gestionar y combinar.\"\n---\n## Build, ship and run\n\nLa web no es la misma desde que la arquitectura basada en contenedores hizo su aparición. Como todos los procesos de innovación tecnológica que suceden en la web su genealogía no es lineal, y el mérito de la disrupción lo tiene más quien supo comercializar y distribuir el producto que el que originalmente lo diseñó. Salvando estos detalles podemos afirmar que [Docker](https://www.docker.com) ha sido el principal responsable de ese cambio radical en la manera de construir aplicaciones en la web, y en la manera de gestionar su despliegue en la nube.\n\nEl lema de Docker, desde que comenzó su andadura en la web hace unos tres años, simpre fue: \"**build, ship and run any app, anywhere**\". A mí, reconozco que me costaba comprender la naturaleza de estos tres elemenentos en relación con la potencia de Docker para instalar software en la web. Pero bueno, pensaba yo, si los desarrolladores lo tenían claro y los responsables de marketing del proyecto habían apostado de manera tan explícita por ese lema... por algo sería!!\n\nAnalizemos pues con detalle cada uno de estos tres componentes del lema de Docker para ver cual es la potencia que encierra:\n\n- **Run**: Con Docker podremos **ejecutar** todo tipo de software **en un entorno aislado**. Como su nombre claramente indica Docker, o estibador en castellano, es un agente que se encarga de mover y transportar contenedores. Todo lo que ejecutemos estará contenido **dentro** de un contenedor. No cabe aquí entrar en detalle pero podemos decir _a grosso modo_ que un contenedor es un entorno virtual dentro de un sistema operativo que aisla el uso de los recursos. Para una descripción mejor y más completa: https://www.youtube.com/watch?v=Av2Umb6nELU. Ejecutar nuestras aplicaciones dentro de un contenedor simplifica mucho el despliegue y el diseño de nuestros proyectos.\n\n- **Ship**: Precisamente por la naturaleza aislada del entorno que estamos construyendo podemos moverlo y desplazarlo sin poner en riesgo ningún tipo de dependencia con el sistema anfitrión. Esto, que parece complejo para aquellas personas que no estáis familiarizadas a oir hablar de sistemas anfitriones, contenedores y clientes, es algo parecido a lo que siempre deseamos muchos cuando en los años 90 nos peleábamos con las aplicaciones en nuestro PC de escritorio: ¿si mi amigo tenía el juego instalado en su PC... por qué no podía yo hacer una copia del juego e instalarlo en el mí? Necesitábamos el soporte original para hacer la instalación desde el CD o desde los diskettes para generar de nuevo las dependencias necesarias con las librerías de nuestro sistema operativo. En el caso de las aplicaciones web el caso es similar: si queremos cambiar nuestras aplicaciones de servidor, o queremos aumentar la capacidad del servidor, nos encontraremos con un montón de dependencias que habrá que resolver en la **nueva máquina**, algo que si usamos los contenedores para nuestros despliegues no es necesario pues: **cada contenedor contiene todas las dependencias necesarias para ejecutarse**. Así pues, ya no tenemos esa dependencia de nuestro proveedor de infraestructura pues podremos migrar nuestras aplicaciones con facilidad.\n\n- **Build**: Este tercer elemento fue el que más tiempo me costó comprender como una palanca que promoviese la autonomía de nuestros proyectos. Hasta que visualicé el despliegue total de toda la infraestructura de EduCaaS como un **LEGO** construido con piezas compactas (los contenedores) que se organizan **de manera creativa pero sometidas a unas reglas básicas y fáciles de aprender**. Esto es muy relevante en el empoderamiento del usuario y del desarrollador _junior_ pues permite producir entornos complejos, resilientes y escalables con unos conocimientos técnicos asequibles para cualquier persona que pueda editar un archivo de texto con unas reglas básicas de construcción. Como ejemplo aquí pego el contenido de una de las plantillas de despliegue más complejas que hay en el catálogo de EduCaaS, la de Open edX, un proyecto cuyo despliegue convencional incluye **cientos** de comandos:\n\n````\ndb:\n    image: mysql:5.7\n    environment:\n        MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}\n        MYSQL_DATABASE: edxapp\n        MYSQL_USER: ${MYSQL_EDXAPP_USER}\n        MYSQL_PASSWORD: ${MYSQL_EDXAPP_PASSWORD}\n    volumes:\n     - ${EDX_DATA_ROOT}/mysql/data:/var/lib/mysql\n    volume_driver: ${volume_driver}\n\nmongo:\n    image: mongo:3.3\n    volumes:\n     - ${EDX_DATA_ROOT}/mongo/data:/data/db\n    volume_driver: ${volume_driver}\n    command: /entrypoint.sh mongod --auth\n\n# Need to build our own for ES 0.9\nes:\n    image: dalareo/elasticsearch:opensaas\n    volumes:\n     - ${EDX_DATA_ROOT}/elasticsearch/data:/data\n    volume_driver: ${volume_driver}\n    command: [\"/usr/share/elasticsearch/bin/elasticsearch\",\"-f\"]\n\nmemcache:\n    image: memcached:1.4.24\n    volumes:\n     - ${EDX_DATA_ROOT}/memcache/data:/data\n    volume_driver: ${volume_driver}\n\nnginx:\n    image: dalareo/nginx:opensaas\n    volumes:\n     - ${EDX_DATA_ROOT}:/edx/var\n    volume_driver: ${volume_driver}\n    command: |\n      /bin/bash -c \"nginx -g 'daemon off;'\"\n\nrabbitmq:\n    image: rabbitmq:3.5.3\n    volumes:\n     - ${EDX_DATA_ROOT}/rabbitmq/data:/var/lib/rabbitmq\n    volume_driver: ${volume_driver}\n    environment:\n        RABBITMQ_DEFAULT_USER: ${CELERY_EDXAPP_USER}\n        RABBITMQ_DEFAULT_PASS: ${CELERY_EDXAPP_PASSWORD}\n\nforums:\n    image: dalareo/edx-forum:opensaas\n    volumes:\n     - ${EDXAPP_CS_COMMENTS_ROOT}:/edx/app/forum/cs_comments_service\n    volume_driver: ${volume_driver}\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n\nxqueue:\n    image: dalareo/edx-xqueue:opensaas\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n    volumes:\n     - ${DOCKER_EDX_CODE_ROOT}/xqueue:/edx/app/edxapp/xqueue\n     - /dev/log:/dev/log\n\nlms:\n    image: dalareo/edxapp_lms:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n\ncms:\n    image: dalareo/edxapp_cms:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n\nedxworker:\n    image: dalareo/edxworker:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n\nedxconfig:\n    image: dalareo/edxconfig:opensaas\n    command: /bin/false\n\nlb:\n    ports:\n     - ${EXPOSED_PORT}:80\n    labels:\n        io.rancher.loadbalancer.target.nginx: preview.${EDX_DOMAIN_NAME}:${EXPOSED_PORT}/static=80,${EDX_DOMAIN_NAME}:${EXPOSED_PORT}/static=80,${STUDIO_DOMAIN_NAME}:${EXPOSED_PORT}/static=80\n        io.rancher.scheduler.global: 'true'\n        io.rancher.loadbalancer.target.lms: ${EDX_DOMAIN_NAME}:${EXPOSED_PORT}=8000,preview.${EDX_DOMAIN_NAME}:${EXPOSED_PORT}=8000\n        io.rancher.loadbalancer.target.cms: ${STUDIO_DOMAIN_NAME}:${EXPOSED_PORT}=8010\n    tty: true\n    links:\n     - nginx:nginx\n     - cms:cms\n     - lms:lms\n    image: rancher/load-balancer-service\n    stdin_open: true\n\n````\n\nQue la plantilla no te confunda si no estás familiarizado con el código, en la plantilla anterior: ¡solamente tenemos que modificar 16 valores! Además podremos asumir los valores por defecto sin problema si son aptos para nuestro despliegue, por lo que instalar Open edX se convierte en algo tan complejo como **hacer click en el botón de instalar**.\n\n![instalación](./instalar_openedx.png)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8e9c5e72ce800d830ce0f5d1b845036c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "EduCaaS y la soberanía tecnológica (2)",
+        "date": "2017-01-13",
+        "layout": "post",
+        "draft": false,
+        "path": "/educaas-soberania-digital-2/",
+        "category": "desarrollo web",
+        "description": "En este post abordaré algunas cuestiones técnicas relativas a la arquitectura de EduCaaS y como ayudan a avanzar hacia un mayor control del usuario sobre los contenidos y las aplicaciones que construye. Docker es una herramienta fundamental en la nueva web programable. Bajo el lema de run, ship and build el uso de los contenedores facilita el diseño de arquitecturas complejas y modulares basadas en elementos compactos fáciles de gestionar y combinar.",
+        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file",
+        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md",
+      "fields": {
+        "slug": "/educaas-soberania-digital-2/",
+        "categorySlug": "/categories/desarrollo-web/"
+      }
+    },
     "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -5514,70 +5578,6 @@
       "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2018-01-04-documentar-para-compartir/index.md",
       "fields": {
         "slug": "/documentar-para-compartir/",
-        "categorySlug": "/categories/desarrollo-web/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"OpenedX en contenedores Docker\"\ndate: \"2016-12-30\"\nlayout: post\ndraft: false\npath: \"/openedx-contenedores-docker/\"\ncategory: \"desarrollo web\"\ndescription: \"Open edX es la plataforma de código abierto que alimenta los cursos de edX, el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...\"\n---\n[Open edX](https://open.edx.org) es la plataforma de código abierto que alimenta los cursos de [edX](https://www.edx.org/), el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...\n\n## El código\n\nSí, vale, de **código abierto**, bien. Pero, ¿cómo leches accedo al código de un proyecto que me dicen que es de código abierto? Bueno, pues existen muchas herramientas para compartir el código de un proyecto de software, pero la más común ahora mismo es [Github](htttps://github.com). Github se ha convertido en los últimos cinco años en el principal fuente a la hora de alojar y colaborar en el software de código abierto, aunque, paradójicamente, el código de Github no está disponible. En [este post](https://about.gitlab.com/2016/07/20/gitlab-is-open-core-github-is-closed-source/) el CEO de [Gitlab](https://about.gitlab.com/), principal alternativa libre a Github, nos amplia este \"pequeño detalle\".\n\nEn el caso de Open edX disponemos de un gran número de repositorios disponibles en su perfil de Github: https://github.com/edx. El perfil es de los más activos que he visto, con modificaciones cada hora e incluso cada minuto, lo cual nos indica que el compromiso de Open edX con la comuniad de sofware abierto es alto y que su equipo es muy activo.\n\nEl respositorio que contiene el código de la plataforma es https://github.com/edx/edx-platform pero el repositorio que nos interesa para instalar o personalizar nuestra instalación es https://github.com/edx/configuration. En él podremos encontrar recursos para proceder a la instalación de la plataforma, tanto en su versión de **desarrollo**, como la versión de **producción**\n\n## Desarrollo, producción, nativa, vagrant,...\n\nEn la documentación del proyecto, que está un poco \"desperdigada\" entre [Atlassian Confluence](https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+Operations+Home), la [Wiki de Github](https://github.com/edx/configuration/wiki) y una [web propia de documentación](http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/), podemos encontrar varias propuestas para proceder a la instalación de la plataforma Open edX: https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+Installation+Options\n\nBásicamente hay dos modalidades de instalación:\n- **Devstack**: Interesante si vas a hacer modificaciones en el código de Open edX y más ligera, con menos servicios\n- **Fullstack**: Instalación que integra todos los servicios necesarios para tener Open edX en producción: lms, cms, forum, analytics, etc.\n\nTambién hay otras opciones de instalación disponibles en la Wiki, incluyendo una instalación nativa en Ubuntu 12.04, así como una máquina virtual de Bitnami. Desde hace unos días también hay instrucciones para hacer la instalación en Ubuntu 16.04: https://openedx.atlassian.net/wiki/display/OpenOPS/Native+Open+edX+Ubuntu+16.04+64+bit+Installation. Los requisitos para la instalación son una máquina con al menos 4GB de RAM, una CPU de 2,00GHz y un mínimo de 25GB de RAM. Con estos requisitos nos podemos ir olvidando de instalar Open edX en un servidor compartido o en un droplet baratito de [Digital Ocean](https://www.digitalocean.com/). Estos requisitos implican alquilar un servidor cuyo **coste será de 50€/mes**, aproximadamente.\n\nLa opción más sencilla para disponer de una instalación de Open edX operativa es utilizar [Vagrant](https://www.vagrantup.com/) para aprovisionar una máquina virtual que contenga todos los servicios necesarios. La instalación **fullstack** con Vagarant está descrita aquí: https://openedx.atlassian.net/wiki/display/OpenOPS/Running+Fullstack. Estas instrucciones indican además algunos usuarios de ejemplo para poder comenzar a utilizar Open edX. Este método puede ser útil para probar en nuestro servidor local o para una instalación sin muchas pretensiones, pero tener en producción todos los servicios en una máquina virtual no es lo más deseable. La razón fundamental es que si nos falla esa máquina... se caerá todo el sistema!! La otra razaón fundamental es que nos encontraremos con una infraestructura muy grande y su manejo no será muy ágil, en relación a escalado, copias de seguridad, etc.\n\n## Y en esto llegó Docker\n\nLos que seguís mi actividad en las redes sociales sabéis que desde que me encontré con Docker, hace ya tres años, no dejo de hacer apología de su uso, pues considero que sus ventajas son infinitas frente a los métodos convencionales de ejecutar, construir y aprovisionar software. Existen sin duda motivos para no ser demasiado optimistas y razones para no \"entregarnos totalmente a Docker\", como la dependencia de un único fabricante -recordemos que Docker no es un standar, sino un proyecto open source desarrollado por una compañía privada- o la existencia de otros proyectos similares que podrían tener las mismas prestaciones si contaran con los recursos suficientes, como https://github.com/opencontainers/runc o https://github.com/lxc/lxc.\n\nSin embargo, más allá de estas cuestiones de \"gobernanza\" que, no siendo poco relevantes, no afectan a la utilidad de Docker como herramienta, Docker es la principal apuesta de la comunidad open source para ejecutar y aprovisionar software en la nube. Una prueba de ello es la proliferación de servicios CAAS, las siglas de \"Container as a Service\". Tanto Amazon con su [EC2 Container Service](https://aws.amazon.com/es/ecs/) como Rackspace con [Carina](https://getcarina.com/), un proyecto que utilizamos en [EduCaaS](http://educaas.io) en su fase beta, o Microsoft y su recientemente anunciado [servicio de contenedores](https://azure.microsoft.com/es-es/services/container-service/) cuentan con plataformas en la nube basadas en Docker o en alguna de sus alternativas comerciales, como [Kubernetes](http://kubernetes.io/) (de Google) o [Mesos](http://mesos.apache.org/) (de Apache).\n\n## La dockerización de Open edX\n\nLa comunidad de desarrolladores alrededor de Open edX lleva ya años avanzando en el diseño de un método de instalación basado en Docker. Existe un canal de comunicación en el [Slack oficial del proyecto](https://openedx-slack-invite.herokuapp.com/) dedicado en exclusividad a este menester, pero no es todo lo activo que muchos desearíamos. Los avances en el repositorio oficial de Open edX no son muy grandes. Existen algunas indicaciones en la wiki del proyecto en relación a los avances ya realizados y las necesidades: https://openedx.atlassian.net/wiki/display/OpenOPS/Open+edX+on+Docker\n\nEn el repositorio oficial ya se incorporan desde hace algunos meses métodos para aprovisionar los distintos servicios usando Docker: https://github.com/edx/configuration/tree/master/docker/build. Además, gracias a la colaboración del equipo de [Appsembler](http://www.appsembler.com/), el principal proveedor a nivel internacional de servicios tecnológicos relacionados con Open edX, contamos con algunas imágenes \"out-of-the-box\" que nos permiten ejecutar Open edX en un único contenedor. Esta es la imagen que utilizamos desde hace ya tiempo en la instalación de pruebas que tenemos dispobile en [FricolaB](http://fricolab.com) [aquí](http://mooc.fricolab.com). Me gustaría desde aquí aprovechar para agradecer personalmente a su CEO, Nate Aune, por su compromiso con el proyecto y su apoyo.\n\nSin embargo, es desde el otro lado del mundo desde el que me ha llegado la inspiración y el talento para poder construir una instalación de Open edX basada en Docker y lo suficientemente estable y potente para alimentar una plataforma en producción. Descubrir este proyecto de [Josh Calder](https://github.com/borisno2) (fundador de http://www.opensaas.com.au/) ha sido fundamental: https://github.com/OpenSaasAU/edx-docker-ansible. En él, Josh utiliza una nueva tecnología **ansible-container** que integra la capacidad de [Ansible](https://www.ansible.com/) para diseñar los aprovisionamientos con la potencia de **Docker**. De esta manera podemos reutilizar el repositorio oficial de Open edX y sus **playbooks** para construir una image independiente de cada uno de los servicios de los que está compuesto Open edX.\n\n## ¿Open edX en EduCaaS?\n\nPero Josh ha ido más lejos aún y ha diseñado también una plantilla para integrar esa instalación **dockerizada** de Open edX en [Rancher](http://rancher.com/), el backend que utiliza EduCaaS para orquestar y organizar el catálogo de aplicaciones disponible para nuestros clientes. En este proyecto, https://github.com/OpenSaasAU/RancherTemplates, podemos obtener las plantillas para **Rancher**, que en unos días integraremos en EduCaaS para poder incluir Open edX en nuestro [catálogo de aplicaciones](https://github.com/EduCaaS/catalog).\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "e618008e4fe2d6c6b2bc5826fa387a23",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "OpenedX en contenedores Docker",
-        "date": "2016-12-30",
-        "layout": "post",
-        "draft": false,
-        "path": "/openedx-contenedores-docker/",
-        "category": "desarrollo web",
-        "description": "Open edX es la plataforma de código abierto que alimenta los cursos de edX, el mayor proveedor de MOOCs formado por un consorcio de universidades de todo el planeta.  El código fuente de edX está de este modo disponible para toda la comunidad gracias al compromiso del consorcio con el software libre. Cualquier institución puede alojar su propia instancia de Open edX y ofrecer sus propios cursos. Pero la instalación y el despliegue de Open edX dista mucho de ser pan comido. Gracias a Docker y el trabajo de algunos de los miembros más activos de la comunidad hemos podido ofrecer Open edX de manera ágil y sencilla. Ha sido un viaje duro...",
-        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file",
-        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md",
-      "fields": {
-        "slug": "/openedx-contenedores-docker/",
-        "categorySlug": "/categories/desarrollo-web/"
-      }
-    },
-    "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"EduCaaS y la soberanía tecnológica (2)\"\ndate: \"2017-01-13\"\nlayout: post\ndraft: false\npath: \"/educaas-soberania-digital-2/\"\ncategory: \"desarrollo web\"\ndescription: \"En este post abordaré algunas cuestiones técnicas relativas a la arquitectura de EduCaaS y como ayudan a avanzar hacia un mayor control del usuario sobre los contenidos y las aplicaciones que construye. Docker es una herramienta fundamental en la nueva web programable. Bajo el lema de run, ship and build el uso de los contenedores facilita el diseño de arquitecturas complejas y modulares basadas en elementos compactos fáciles de gestionar y combinar.\"\n---\n## Build, ship and run\n\nLa web no es la misma desde que la arquitectura basada en contenedores hizo su aparición. Como todos los procesos de innovación tecnológica que suceden en la web su genealogía no es lineal, y el mérito de la disrupción lo tiene más quien supo comercializar y distribuir el producto que el que originalmente lo diseñó. Salvando estos detalles podemos afirmar que [Docker](https://www.docker.com) ha sido el principal responsable de ese cambio radical en la manera de construir aplicaciones en la web, y en la manera de gestionar su despliegue en la nube.\n\nEl lema de Docker, desde que comenzó su andadura en la web hace unos tres años, simpre fue: \"**build, ship and run any app, anywhere**\". A mí, reconozco que me costaba comprender la naturaleza de estos tres elemenentos en relación con la potencia de Docker para instalar software en la web. Pero bueno, pensaba yo, si los desarrolladores lo tenían claro y los responsables de marketing del proyecto habían apostado de manera tan explícita por ese lema... por algo sería!!\n\nAnalizemos pues con detalle cada uno de estos tres componentes del lema de Docker para ver cual es la potencia que encierra:\n\n- **Run**: Con Docker podremos **ejecutar** todo tipo de software **en un entorno aislado**. Como su nombre claramente indica Docker, o estibador en castellano, es un agente que se encarga de mover y transportar contenedores. Todo lo que ejecutemos estará contenido **dentro** de un contenedor. No cabe aquí entrar en detalle pero podemos decir _a grosso modo_ que un contenedor es un entorno virtual dentro de un sistema operativo que aisla el uso de los recursos. Para una descripción mejor y más completa: https://www.youtube.com/watch?v=Av2Umb6nELU. Ejecutar nuestras aplicaciones dentro de un contenedor simplifica mucho el despliegue y el diseño de nuestros proyectos.\n\n- **Ship**: Precisamente por la naturaleza aislada del entorno que estamos construyendo podemos moverlo y desplazarlo sin poner en riesgo ningún tipo de dependencia con el sistema anfitrión. Esto, que parece complejo para aquellas personas que no estáis familiarizadas a oir hablar de sistemas anfitriones, contenedores y clientes, es algo parecido a lo que siempre deseamos muchos cuando en los años 90 nos peleábamos con las aplicaciones en nuestro PC de escritorio: ¿si mi amigo tenía el juego instalado en su PC... por qué no podía yo hacer una copia del juego e instalarlo en el mí? Necesitábamos el soporte original para hacer la instalación desde el CD o desde los diskettes para generar de nuevo las dependencias necesarias con las librerías de nuestro sistema operativo. En el caso de las aplicaciones web el caso es similar: si queremos cambiar nuestras aplicaciones de servidor, o queremos aumentar la capacidad del servidor, nos encontraremos con un montón de dependencias que habrá que resolver en la **nueva máquina**, algo que si usamos los contenedores para nuestros despliegues no es necesario pues: **cada contenedor contiene todas las dependencias necesarias para ejecutarse**. Así pues, ya no tenemos esa dependencia de nuestro proveedor de infraestructura pues podremos migrar nuestras aplicaciones con facilidad.\n\n- **Build**: Este tercer elemento fue el que más tiempo me costó comprender como una palanca que promoviese la autonomía de nuestros proyectos. Hasta que visualicé el despliegue total de toda la infraestructura de EduCaaS como un **LEGO** construido con piezas compactas (los contenedores) que se organizan **de manera creativa pero sometidas a unas reglas básicas y fáciles de aprender**. Esto es muy relevante en el empoderamiento del usuario y del desarrollador _junior_ pues permite producir entornos complejos, resilientes y escalables con unos conocimientos técnicos asequibles para cualquier persona que pueda editar un archivo de texto con unas reglas básicas de construcción. Como ejemplo aquí pego el contenido de una de las plantillas de despliegue más complejas que hay en el catálogo de EduCaaS, la de Open edX, un proyecto cuyo despliegue convencional incluye **cientos** de comandos:\n\n````\ndb:\n    image: mysql:5.7\n    environment:\n        MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}\n        MYSQL_DATABASE: edxapp\n        MYSQL_USER: ${MYSQL_EDXAPP_USER}\n        MYSQL_PASSWORD: ${MYSQL_EDXAPP_PASSWORD}\n    volumes:\n     - ${EDX_DATA_ROOT}/mysql/data:/var/lib/mysql\n    volume_driver: ${volume_driver}\n\nmongo:\n    image: mongo:3.3\n    volumes:\n     - ${EDX_DATA_ROOT}/mongo/data:/data/db\n    volume_driver: ${volume_driver}\n    command: /entrypoint.sh mongod --auth\n\n# Need to build our own for ES 0.9\nes:\n    image: dalareo/elasticsearch:opensaas\n    volumes:\n     - ${EDX_DATA_ROOT}/elasticsearch/data:/data\n    volume_driver: ${volume_driver}\n    command: [\"/usr/share/elasticsearch/bin/elasticsearch\",\"-f\"]\n\nmemcache:\n    image: memcached:1.4.24\n    volumes:\n     - ${EDX_DATA_ROOT}/memcache/data:/data\n    volume_driver: ${volume_driver}\n\nnginx:\n    image: dalareo/nginx:opensaas\n    volumes:\n     - ${EDX_DATA_ROOT}:/edx/var\n    volume_driver: ${volume_driver}\n    command: |\n      /bin/bash -c \"nginx -g 'daemon off;'\"\n\nrabbitmq:\n    image: rabbitmq:3.5.3\n    volumes:\n     - ${EDX_DATA_ROOT}/rabbitmq/data:/var/lib/rabbitmq\n    volume_driver: ${volume_driver}\n    environment:\n        RABBITMQ_DEFAULT_USER: ${CELERY_EDXAPP_USER}\n        RABBITMQ_DEFAULT_PASS: ${CELERY_EDXAPP_PASSWORD}\n\nforums:\n    image: dalareo/edx-forum:opensaas\n    volumes:\n     - ${EDXAPP_CS_COMMENTS_ROOT}:/edx/app/forum/cs_comments_service\n    volume_driver: ${volume_driver}\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n\nxqueue:\n    image: dalareo/edx-xqueue:opensaas\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n    volumes:\n     - ${DOCKER_EDX_CODE_ROOT}/xqueue:/edx/app/edxapp/xqueue\n     - /dev/log:/dev/log\n\nlms:\n    image: dalareo/edxapp_lms:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n\ncms:\n    image: dalareo/edxapp_cms:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n\nedxworker:\n    image: dalareo/edxworker:opensaas\n    volumes:\n     - ${EDXAPP_EDX_CODE_ROOT}/edx-platform:/edx/app/edxapp/edx-platform\n     - /dev/log\n    volume_driver: ${volume_driver}\n    command: [\"/edx/app/supervisor/venvs/supervisor/bin/supervisord\", \"-n\", \"--configuration\", \"/edx/app/supervisor/supervisord.conf\"]\n\nedxconfig:\n    image: dalareo/edxconfig:opensaas\n    command: /bin/false\n\nlb:\n    ports:\n     - ${EXPOSED_PORT}:80\n    labels:\n        io.rancher.loadbalancer.target.nginx: preview.${EDX_DOMAIN_NAME}:${EXPOSED_PORT}/static=80,${EDX_DOMAIN_NAME}:${EXPOSED_PORT}/static=80,${STUDIO_DOMAIN_NAME}:${EXPOSED_PORT}/static=80\n        io.rancher.scheduler.global: 'true'\n        io.rancher.loadbalancer.target.lms: ${EDX_DOMAIN_NAME}:${EXPOSED_PORT}=8000,preview.${EDX_DOMAIN_NAME}:${EXPOSED_PORT}=8000\n        io.rancher.loadbalancer.target.cms: ${STUDIO_DOMAIN_NAME}:${EXPOSED_PORT}=8010\n    tty: true\n    links:\n     - nginx:nginx\n     - cms:cms\n     - lms:lms\n    image: rancher/load-balancer-service\n    stdin_open: true\n\n````\n\nQue la plantilla no te confunda si no estás familiarizado con el código, en la plantilla anterior: ¡solamente tenemos que modificar 16 valores! Además podremos asumir los valores por defecto sin problema si son aptos para nuestro despliegue, por lo que instalar Open edX se convierte en algo tan complejo como **hacer click en el botón de instalar**.\n\n![instalación](./instalar_openedx.png)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8e9c5e72ce800d830ce0f5d1b845036c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "EduCaaS y la soberanía tecnológica (2)",
-        "date": "2017-01-13",
-        "layout": "post",
-        "draft": false,
-        "path": "/educaas-soberania-digital-2/",
-        "category": "desarrollo web",
-        "description": "En este post abordaré algunas cuestiones técnicas relativas a la arquitectura de EduCaaS y como ayudan a avanzar hacia un mayor control del usuario sobre los contenidos y las aplicaciones que construye. Docker es una herramienta fundamental en la nueva web programable. Bajo el lema de run, ship and build el uso de los contenedores facilita el diseño de arquitecturas complejas y modulares basadas en elementos compactos fáciles de gestionar y combinar.",
-        "_PARENT": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file",
-        "parent": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md",
-      "fields": {
-        "slug": "/educaas-soberania-digital-2/",
         "categorySlug": "/categories/desarrollo-web/"
       }
     },
@@ -5692,7 +5692,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "290ebbd4de017349a6377c2d80179694",
+        "contentDigest": "dba7bfe6c5bd945d17c6738242aab453",
         "description": "Plugin gatsby-plugin-offline",
         "owner": "internal-data-bridge"
       }
@@ -5715,30 +5715,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1582a39608a21e31e1e48b591189f24c",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /projects": {
-      "layout": "index",
-      "jsonName": "projects.json",
-      "internalComponentName": "ComponentProjects",
-      "path": "/projects",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/projects"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /projects",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5be0b605635348e61a858dbd345ba1de",
+        "contentDigest": "d10a7c609f6d15e0d28e40ad897f121f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5761,7 +5738,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5b757a434ceb7e4ca77a62cf2223202",
+        "contentDigest": "3188ff34613e33c3121bf5ed3383c71e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5784,53 +5761,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b28ed26670ac8b9120756886fb4cf12e",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /el-año-de-sofia/": {
-      "layout": "index",
-      "jsonName": "el-ano-de-sofia.json",
-      "internalComponentName": "ComponentElAnoDeSofia",
-      "path": "/el-año-de-sofia/",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/el-año-de-sofia/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /el-año-de-sofia/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "05a0e02eb0d81c5b3f8e0b52f7b164c4",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/pensamiento/": {
-      "layout": "index",
-      "jsonName": "categories-pensamiento.json",
-      "internalComponentName": "ComponentCategoriesPensamiento",
-      "path": "/categories/pensamiento/",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "pensamiento"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/pensamiento/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3dd5d9d34b6ed849b74aeca3ee5115df",
+        "contentDigest": "53cac77b83e816c6369f9027569476ba",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5853,7 +5784,53 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8aadda1c4ff6055c93546089ff16cae4",
+        "contentDigest": "51c97e1ebc7793bd4abdcfd93511b294",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-año-de-sofia/": {
+      "layout": "index",
+      "jsonName": "el-ano-de-sofia.json",
+      "internalComponentName": "ComponentElAnoDeSofia",
+      "path": "/el-año-de-sofia/",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/el-año-de-sofia/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /el-año-de-sofia/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "83420e03ca6809418afd46a49b0329be",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/pensamiento/": {
+      "layout": "index",
+      "jsonName": "categories-pensamiento.json",
+      "internalComponentName": "ComponentCategoriesPensamiento",
+      "path": "/categories/pensamiento/",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "pensamiento"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/pensamiento/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "413a17a7afb642114268abec3ed3e8a4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5876,7 +5853,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ba21b571ba341482029fd9331e9fe33",
+        "contentDigest": "0256c8eadfdc19c44bd3f06de6844f39",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5899,7 +5876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b885547837e6cd38e1387c04886572ae",
+        "contentDigest": "db87d1c25480550fd84bb6bb0edbe31c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5922,7 +5899,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "146695c859e07df564ff914f3711a441",
+        "contentDigest": "d736ef63795b0910a822da80b95ab248",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5945,7 +5922,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c48e1749f0d482a6a63ee9c6042558d6",
+        "contentDigest": "7193a851a26ea44db0a9a243a3c6c472",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5968,7 +5945,30 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fde24b0b26dfb44a6137ce07e841c75f",
+        "contentDigest": "eb11b01c9a45e4b61c7bc64a4707bf73",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /projects": {
+      "layout": "index",
+      "jsonName": "projects.json",
+      "internalComponentName": "ComponentProjects",
+      "path": "/projects",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/projects"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /projects",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d0365bb00fbfd0185c35c11daa4f670e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5991,7 +5991,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "49d479362a18ddd1ff917cea10f4ad39",
+        "contentDigest": "02001c86c6d326aa9ca11edc64538617",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6014,7 +6014,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "81e9abe611b5cfeeccf25d9bd1a91300",
+        "contentDigest": "d47bae7c449009bfa2c08aa12eaa9be7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6037,7 +6037,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02e4e922aff34bf7f9b3e61b11a18fbd",
+        "contentDigest": "cd06edfce3732acf9902d294267c0d8e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6060,7 +6060,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5bed0801d850b3405eb53883894f8961",
+        "contentDigest": "da9522abcdb451bd7cf08e85f401f36e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6083,7 +6083,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05554c2c03fc805438a32413bdee7321",
+        "contentDigest": "49e461a151e42f66921b5494346d5690",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6106,7 +6106,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d22fe2bbca9475fa93eb70140906844",
+        "contentDigest": "6c3e50af80bfa9210ecb665d11c31c27",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6129,7 +6129,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56eea0ee19fe1a4b6dfed006adafbfae",
+        "contentDigest": "64f69ed9604d134ab104d990cfd08003",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6152,7 +6152,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa74f9d4b3505ef4ae2a18528dac96c9",
+        "contentDigest": "3772ca428d2bfcc50c4367bef92d3277",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6175,7 +6175,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0b293ea5e294e840b3da5629f20a12c",
+        "contentDigest": "145e2ad4a5d264c9bee30975ad52943b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6198,76 +6198,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "28a7ef7c0ef48ef6613e9e5cf2f42432",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /educaas-soberania-digital-3/": {
-      "layout": "index",
-      "jsonName": "educaas-soberania-digital-3.json",
-      "internalComponentName": "ComponentEducaasSoberaniaDigital3",
-      "path": "/educaas-soberania-digital-3/",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/educaas-soberania-digital-3/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /educaas-soberania-digital-3/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b8480dc912c58351c0ac4297d61b2d07",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /educaas-soberania-digital-4/": {
-      "layout": "index",
-      "jsonName": "educaas-soberania-digital-4.json",
-      "internalComponentName": "ComponentEducaasSoberaniaDigital4",
-      "path": "/educaas-soberania-digital-4/",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/educaas-soberania-digital-4/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /educaas-soberania-digital-4/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fc7dca117643c81ee21e7e2d1e00405a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /documentar-para-compartir/": {
-      "layout": "index",
-      "jsonName": "documentar-para-compartir.json",
-      "internalComponentName": "ComponentDocumentarParaCompartir",
-      "path": "/documentar-para-compartir/",
-      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/documentar-para-compartir/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /documentar-para-compartir/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "63b8f03a524d953b82493c9ab572cbe7",
+        "contentDigest": "01ef48ae55f41791a0d90b3f365dadb0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6290,7 +6221,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de8bac8460e9d17084932ad5af6d90ca",
+        "contentDigest": "82cd0865b650494b3ef705a750e2f0d1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6313,7 +6244,76 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "269bf7aa0ace9df48c46517a78571c78",
+        "contentDigest": "da1e882ef35cdb2136a9187c8249de5a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /educaas-soberania-digital-3/": {
+      "layout": "index",
+      "jsonName": "educaas-soberania-digital-3.json",
+      "internalComponentName": "ComponentEducaasSoberaniaDigital3",
+      "path": "/educaas-soberania-digital-3/",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/educaas-soberania-digital-3/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /educaas-soberania-digital-3/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3bdb2212afba53793dab7d8ec5fbb9c1",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /educaas-soberania-digital-4/": {
+      "layout": "index",
+      "jsonName": "educaas-soberania-digital-4.json",
+      "internalComponentName": "ComponentEducaasSoberaniaDigital4",
+      "path": "/educaas-soberania-digital-4/",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/educaas-soberania-digital-4/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /educaas-soberania-digital-4/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0e8cefb49fdb737c97cf85f3326d36d0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /documentar-para-compartir/": {
+      "layout": "index",
+      "jsonName": "documentar-para-compartir.json",
+      "internalComponentName": "ComponentDocumentarParaCompartir",
+      "path": "/documentar-para-compartir/",
+      "component": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/documentar-para-compartir/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/usuario/Software/dalareo.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /documentar-para-compartir/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "69b067e72d1dd48181054766716e636b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6336,7 +6336,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3c73dec31d180670a5494259dfb4f5aa",
+        "contentDigest": "8548ad69907a0b4328e9cad1cc0c9c15",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -6357,7 +6357,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2718c79d5934f9819579c1c42a87b265",
+        "contentDigest": "9b74e18b4220261f18ed481a8a62124f",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -6378,7 +6378,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22b339164ff2697587030a644e5dc700",
+        "contentDigest": "5b2362beef03a5cfdeba6280cb52aaa3",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -6399,7 +6399,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "76f1d5b672d831e20064192a4fbdb06e",
+        "contentDigest": "b3520f708aa63fe580aa220efb384915",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -6420,7 +6420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5a47290fe0cb6a0fca036f3511b8186e",
+        "contentDigest": "32062fc33aa48bdb529c1c79818161d5",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -6428,23 +6428,23 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1994d8d7744eddf6aadc0983c051a1d1"
+    "PLUGINS_HASH": "48a22bc0890116586630126f8644dba9"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/projects",
-        "/about",
         "/aplicaciones-html5/",
+        "/about",
         "/categories/desarrollo-web/",
+        "/crea-tu-propia-red-de-wordpress/",
         "/el-año-de-sofia/",
         "/categories/pensamiento/",
-        "/crea-tu-propia-red-de-wordpress/",
         "/je-suis-andreas/",
         "/categories/actualidad/",
         "/working-class-heroes/",
         "/categories/memorias/",
         "/docker-compose-y-wordpress-juntos-pero-no-revueltos/",
+        "/projects",
         "/gaiteira/",
         "/ponte-las-pilas-con-el-software-libre/",
         "/anadir-SSL-a-tu-aplicacion-web-dockerizada/",
@@ -6455,31 +6455,28 @@
         "/educaas-soberania-digital-1/",
         "/etiquetas-facebook-gatsbyjs/",
         "/imagenes-docker-actualizadas-automaticamente/",
+        "/openedx-contenedores-docker/",
+        "/educaas-soberania-digital-2/",
         "/educaas-soberania-digital-3/",
         "/educaas-soberania-digital-4/",
         "/documentar-para-compartir/",
-        "/openedx-contenedores-docker/",
-        "/educaas-soberania-digital-2/",
         "/lo-complejo-lo-emergente-lo-diferente-que-viene/",
         "/404/",
         "/categories/",
-        "/",
-        "/404.html"
-      ],
-      "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark": [
-        "/projects"
-      ],
-      "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---about/index.md absPath of file >>> MarkdownRemark": [
-        "/about"
+        "/404.html",
+        "/"
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2014-11-07-desarrolla-aplicación-html5/index.md absPath of file >>> MarkdownRemark": [
         "/aplicaciones-html5/"
       ],
-      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-01-01-el-año-de-sofia/index.md absPath of file >>> MarkdownRemark": [
-        "/el-año-de-sofia/"
+      "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---about/index.md absPath of file >>> MarkdownRemark": [
+        "/about"
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-02-05-crea-tu-propia-red-de-wordpress/index.md absPath of file >>> MarkdownRemark": [
         "/crea-tu-propia-red-de-wordpress/"
+      ],
+      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-01-01-el-año-de-sofia/index.md absPath of file >>> MarkdownRemark": [
+        "/el-año-de-sofia/"
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-04-01-je-suis-andreas/index.md absPath of file >>> MarkdownRemark": [
         "/je-suis-andreas/"
@@ -6489,6 +6486,9 @@
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-09-22-docker-compose-y-wordpress-juntos-pero-no-revueltos/index.md absPath of file >>> MarkdownRemark": [
         "/docker-compose-y-wordpress-juntos-pero-no-revueltos/"
+      ],
+      "/home/usuario/Software/dalareo.github.io/src/pages/pages/2018-05-17---projects/index.md absPath of file >>> MarkdownRemark": [
+        "/projects"
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2015-12-01-gaiteira/index.md absPath of file >>> MarkdownRemark": [
         "/gaiteira/"
@@ -6520,6 +6520,12 @@
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-27-crear-imagenes-docker-actualizadas/index.md absPath of file >>> MarkdownRemark": [
         "/imagenes-docker-actualizadas-automaticamente/"
       ],
+      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark": [
+        "/openedx-contenedores-docker/"
+      ],
+      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark": [
+        "/educaas-soberania-digital-2/"
+      ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-31-soberania-tecnologica-educaas-3/index.md absPath of file >>> MarkdownRemark": [
         "/educaas-soberania-digital-3/"
       ],
@@ -6528,12 +6534,6 @@
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2018-01-04-documentar-para-compartir/index.md absPath of file >>> MarkdownRemark": [
         "/documentar-para-compartir/"
-      ],
-      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-12-30-openedx-en-contenedores-docker/index.md absPath of file >>> MarkdownRemark": [
-        "/openedx-contenedores-docker/"
-      ],
-      "/home/usuario/Software/dalareo.github.io/src/pages/articles/2017-01-13-soberania-tecnologica-educaas-2/index.md absPath of file >>> MarkdownRemark": [
-        "/educaas-soberania-digital-2/"
       ],
       "/home/usuario/Software/dalareo.github.io/src/pages/articles/2016-03-11-lo-complejo-lo-emergente-lo-diferente-que-viene/index.md absPath of file >>> MarkdownRemark": [
         "/lo-complejo-lo-emergente-lo-diferente-que-viene/"
