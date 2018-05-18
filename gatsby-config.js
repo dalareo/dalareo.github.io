@@ -4,7 +4,7 @@ module.exports = {
     title: 'Blog de David A. Lareo',
     subtitle: 'Sitio web personal: artículos, proyectos y material de autobombo',
     copyright: 'GNU Affero General Public License',
-    disqusShortname: 'dalareo',
+    disqusShortname: '',
     menu: [
       {
         label: 'Art\u00EDculos',
