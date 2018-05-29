@@ -13,8 +13,8 @@
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js.map"
     ],
     "path---categories": [
-      "path---categories-905b091bf33c60d8147a.js",
-      "path---categories-905b091bf33c60d8147a.js.map"
+      "path---categories-0a8c533c505c092bc27f.js",
+      "path---categories-0a8c533c505c092bc27f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -52,6 +52,10 @@
       "path---aplicaciones-html-5-d62849c96bfa59f4d947.js",
       "path---aplicaciones-html-5-d62849c96bfa59f4d947.js.map"
     ],
+    "path---los-prejuicios-y-la-diversidad": [
+      "path---los-prejuicios-y-la-diversidad-4c6633c607ce01bea209.js",
+      "path---los-prejuicios-y-la-diversidad-4c6633c607ce01bea209.js.map"
+    ],
     "path---openedx-contenedores-docker": [
       "path---openedx-contenedores-docker-97db2cb6be01a0dc2c87.js",
       "path---openedx-contenedores-docker-97db2cb6be01a0dc2c87.js.map"
@@ -61,8 +65,8 @@
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
     ],
     "path---index": [
-      "path---index-69f528427b0025408860.js",
-      "path---index-69f528427b0025408860.js.map"
+      "path---index-7df774ca524adc140cce.js",
+      "path---index-7df774ca524adc140cce.js.map"
     ],
     "path---educaas-soberania-digital-4": [
       "path---educaas-soberania-digital-4-d7ef85e05712274328c1.js",
@@ -77,8 +81,8 @@
       "path---ponte-las-pilas-con-el-software-libre-d8805c7ccc0b5b8a065d.js.map"
     ],
     "path---categories-pensamiento": [
-      "path---categories-pensamiento-59e731ecc52f20148d7f.js",
-      "path---categories-pensamiento-59e731ecc52f20148d7f.js.map"
+      "path---categories-pensamiento-9cc735a2886bacd226d7.js",
+      "path---categories-pensamiento-9cc735a2886bacd226d7.js.map"
     ],
     "commons": [
       "commons-c3fca618b57e2f019ac4.js",
@@ -151,8 +155,8 @@
       "path---el-ano-de-sofia-441e044e385133ae7d7a.js.map"
     ],
     "app": [
-      "app-5bd7f5baa074ec2b6105.js",
-      "app-5bd7f5baa074ec2b6105.js.map"
+      "app-a0c30fc3607239ee3f2d.js",
+      "app-a0c30fc3607239ee3f2d.js.map"
     ],
     "path---guarda-contenido-web-wallabag": [
       "path---guarda-contenido-web-wallabag-0251cba1865900472e37.js",
