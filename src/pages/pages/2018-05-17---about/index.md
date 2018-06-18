@@ -5,7 +5,7 @@ path: "/about"
 description: "Un poco de contexto sobre las cosas que he hecho y las que me gustaría hacer. Lo cuento con un gráfico porque es demasiado complejo para un CV."
 ---
 
-Filósofo y hacker. Reivindico el papel de lo **mestizo** y de las **analogías** como herramienta para conocer el mundo. A veces escribo [**poemas**](https://dalareo.wordpress.com/) y hago música. Casi todo lo que sé lo aprendí equivocándome, como muestra mi [~~curriculum vitae~~](https://www.dropbox.com/s/0n5uaauwace9w2s/CV_DavidALareo.pdf?dl=0). Diseño productos y servicios que respeten los valores fundamentales de la [**ética hacker**](https://es.wikipedia.org/wiki/%C3%89tica_hacker). Defiendo la **cultura libre** y la **producción abierta del conocimiento**.
+Filósofo y hacker. Reivindico el papel de lo **mestizo** y de las **analogías** como herramienta para conocer el mundo. A veces escribo [**poemas**](https://dalareo.wordpress.com/) y hago música. Casi todo lo que sé lo aprendí equivocándome, como muestra mi [~~curriculum vitae~~](https://www.dropbox.com/s/i2koo24b9j6v2s2/nuevo_cv.pdf?dl=0). Diseño productos y servicios que respeten los valores fundamentales de la [**ética hacker**](https://es.wikipedia.org/wiki/%C3%89tica_hacker). Defiendo la **cultura libre** y la **producción abierta del conocimiento**.
 
 Me apasionan muchas cosas y por eso tengo la mochila cargada de historias, algunas de ellas son: **educación**, **emprendimiento social**, **economía del bien común**, **innovación social**, **desarrollo web**, **soberanía tecnológica**, **diseño y gestión ágil**...y las que faltan!
 
