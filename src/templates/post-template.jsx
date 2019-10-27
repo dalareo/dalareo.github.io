@@ -1,27 +1,31 @@
-import React from 'react';
-import Helmet from 'react-helmet';
-import PostTemplateDetails from '../components/PostTemplateDetails';
+import React from 'react'
+import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+import Layout from '../components/Layout'
+import PostTemplateDetails from '../components/PostTemplateDetails'
 
 class PostTemplate extends React.Component {
   render() {
-    const { title, subtitle } = this.props.data.site.siteMetadata;
-    const post = this.props.data.markdownRemark;
-    const { title: postTitle, description: postDescription } = post.frontmatter;
-    const description = postDescription !== null ? postDescription : subtitle;
+    const { title, subtitle } = this.props.data.site.siteMetadata
+    const post = this.props.data.markdownRemark
+    const { title: postTitle, description: postDescription } = post.frontmatter
+    const description = postDescription !== null ? postDescription : subtitle
 
     return (
-      <div>
-        <Helmet>
-          <title>{`${postTitle} - ${title}`}</title>
-          <meta name="description" content={description} />
-        </Helmet>
-        <PostTemplateDetails {...this.props} />
-      </div>
-    );
+      <Layout>
+        <div>
+          <Helmet>
+            <title>{`${postTitle} - ${title}`}</title>
+            <meta name="description" content={description} />
+          </Helmet>
+          <PostTemplateDetails {...this.props} />
+        </div>
+      </Layout>
+    )
   }
 }
 
-export default PostTemplate;
+export default PostTemplate
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
@@ -41,6 +45,9 @@ export const pageQuery = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date
@@ -48,4 +55,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

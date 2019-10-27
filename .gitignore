@@ -1,10 +1,8 @@
 node_modules/
 .cache/
 public/
-*.log
+npm-debug.log
+.eslintcache
 .gatsby-context.js
-pages/.manifest
 .idea
 gatsby-starter-lumen.iml
-package-lock.json
-yarn.lock
