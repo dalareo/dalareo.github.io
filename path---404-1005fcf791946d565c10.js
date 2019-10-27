@@ -1,2 +1,0 @@
-webpackJsonp([0xe70826b53c04],{381:function(e,a){e.exports={data:{site:{siteMetadata:{title:"Blog de David A. Lareo",subtitle:"Sitio web personal: artículos, proyectos y material de autobombo",copyright:"GNU Affero General Public License",menu:[{label:"Artículos",path:"/"},{label:"Proyectos",path:"/projects/"},{label:"Sobre mí",path:"/about/"}],author:{name:"David A. Lareo",email:"dalareo@gmail.com",telegram:"dalareo",twitter:"dalareo",github:"dalareo",rss:"#",vk:"#"}}}},pathContext:{}}}});
-//# sourceMappingURL=path---404-1005fcf791946d565c10.js.map
