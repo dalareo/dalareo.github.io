@@ -18,9 +18,9 @@ class Post extends React.Component {
         <div className="post__meta">
           <time
             className="post__meta-time"
-            dateTime={moment(date).format('MMMM D, YYYY')}
+            dateTime={moment().format('MM-DD-YYYY')}
           >
-            {moment(date).format('MMMM YYYY')}
+            {moment().format('MM-DD-YYYY')}
           </time>
           <span className="post__meta-divider" />
           <span className="post__meta-category" key={categorySlug}>
