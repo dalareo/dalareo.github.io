@@ -17,7 +17,7 @@ En primer lugar necesitamos disponer de un sitio web, lo cual, para muchas y muc
 
 Para integrar el código fuente de nuestro proyecto con los servicios que hemos indicado usaremos un repositorio **Git**. Si estás leyendo esto seguramente sabes lo que es Git, pero para aquellos que todavía no lo conocen se trata de un software para gestionar las versiones de una carpeta o conjunto de carpetas. Obviamente su uso principal es con proyectos de Software, pero en el pasado ya he hablado sobre el uso de Git para proyectos de distinta naturaleza, no solamente software.
 
-Para crear un repositorio y conectarlo con vuestra carpeta local os recomiento la documentación oficial de Github: (<https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).>
+Para crear un repositorio y conectarlo con vuestra carpeta local os recomiendo la documentación oficial de Github: (<https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).>
 
 Ahora que ya tenemos nuestro repositorio de Github y la carpeta local conectada lo tenemos que hacer es instalar en nuestro ordenador el software necesario. A modo de ejemplo usaré el mismo software que utilizo para alojar este sitio web que estás consultando, [GatsbyJS](gatsbyjs.org/).
 
@@ -53,7 +53,7 @@ Pues bien, una vez que tenemos nuestro sitio web más o menos con el contenido q
 
 Github incluye una característica que te permite publicar con una URL pública el contenido de tu repositorio siempre que éste se pueda leer desde un navegador web.
 
-Para habilitar la funcionalidad de usar Github Pages con tu proyecto tendrás que instalar el paquete **gh-pages**, con el siguiente comando, una vez que te encuentres en el directorio raiz de tu proyecto:
+Para habilitar la funcionalidad de usar Github Pages con tu proyecto tendrás que instalar el paquete **gh-pages**, con el siguiente comando, una vez que te encuentres en el directorio raíz de tu proyecto:
 
 ``npm install gh-pages --save-dev``
 
@@ -101,7 +101,7 @@ A continuación nos pedirá una serie de parámetros como la rama que queremos u
 
 ``gatsby build``
 
-El directorio **public** será el contenido publicado, que se confitgurará automáticamente, al igual que el comando de compilanción, ya que nuestra plantilla incluye el archivo **netlify.toml**:
+El directorio **public** será el contenido publicado, que se configurará automáticamente, al igual que el comando de compilación, ya que nuestra plantilla incluye el archivo **netlify.toml**:
 
 ````toml
 [build]
@@ -128,4 +128,4 @@ No hay magia ninguna, simplemente Zeit reconoce por el formato de nuestro proyec
 
 ## En resumen
 
-Hemos visto como con estos tres servicios gratuitos que perfectamente pueden cubrir las necesidades de nuestro poyecto web personal, nuestro blog, etc. podemos tener una página web con las últimas tecnologías sin apenas tener conocimientos de programación web. Quizá lo más complicado sea la instalación del software en tu ordenador o la creacion y gestión del repositorio de Github, pero creo que son dos habilidades que merece la pena ejercitar pues te abrirán las puertas al mundo del desarrollo web moderno.
+Hemos visto como con estos tres servicios gratuitos que perfectamente pueden cubrir las necesidades de nuestro proyecto web personal, nuestro blog, etc. podemos tener una página web con las últimas tecnologías sin apenas tener conocimientos de programación web. Quizá lo más complicado sea la instalación del software en tu ordenador o la creación y gestión del repositorio de Github, pero creo que son dos habilidades que merece la pena ejercitar pues te abrirán las puertas al mundo del desarrollo web moderno.
