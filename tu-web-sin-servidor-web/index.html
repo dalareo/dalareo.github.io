@@ -5,7 +5,7 @@
 <p>En primer lugar necesitamos disponer de un sitio web, lo cual, para muchas y muchos es algo muuuuy complicado, difícil de entender y lejos del alcance de un ser humano medio. Pues no. Nada de eso. Tener un sitio web hoy en día es muy fácil, y no solamente me refiero (que también) a tener una cuenta gratuita o de pago en cualquier plataforma que proporcione un sitio web editable desde el navegador web, como <a href="https://www.wordpress.com">Wordpress</a> o similar. Me refiero a tener tu propio sitio web gestionado por ti, diseñado por ti y, con estas tres sencilla plataformas que aquí te presento, alojado por ti.</p>
 <h3>Configurar un repositorio Git</h3>
 <p>Para integrar el código fuente de nuestro proyecto con los servicios que hemos indicado usaremos un repositorio <strong>Git</strong>. Si estás leyendo esto seguramente sabes lo que es Git, pero para aquellos que todavía no lo conocen se trata de un software para gestionar las versiones de una carpeta o conjunto de carpetas. Obviamente su uso principal es con proyectos de Software, pero en el pasado ya he hablado sobre el uso de Git para proyectos de distinta naturaleza, no solamente software.</p>
-<p>Para crear un repositorio y conectarlo con vuestra carpeta local os recomiento la documentación oficial de Github: (<a href="https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).">https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).</a></p>
+<p>Para crear un repositorio y conectarlo con vuestra carpeta local os recomiendo la documentación oficial de Github: (<a href="https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).">https://help.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).</a></p>
 <p>Ahora que ya tenemos nuestro repositorio de Github y la carpeta local conectada lo tenemos que hacer es instalar en nuestro ordenador el software necesario. A modo de ejemplo usaré el mismo software que utilizo para alojar este sitio web que estás consultando, <a href="gatsbyjs.org/">GatsbyJS</a>.</p>
 <h3>Instalar GatsbyJS</h3>
 <p>Desde una terminal ejecuta el siguiente comando:</p>
@@ -23,7 +23,7 @@
 <h2>Publicar tu sitio web</h2>
 <h2>En Github pages</h2>
 <p>Github incluye una característica que te permite publicar con una URL pública el contenido de tu repositorio siempre que éste se pueda leer desde un navegador web.</p>
-<p>Para habilitar la funcionalidad de usar Github Pages con tu proyecto tendrás que instalar el paquete <strong>gh-pages</strong>, con el siguiente comando, una vez que te encuentres en el directorio raiz de tu proyecto:</p>
+<p>Para habilitar la funcionalidad de usar Github Pages con tu proyecto tendrás que instalar el paquete <strong>gh-pages</strong>, con el siguiente comando, una vez que te encuentres en el directorio raíz de tu proyecto:</p>
 <p><code class="language-text">npm install gh-pages --save-dev</code></p>
 <p>Para usar la funcionalidad de Github Pages la manera más sencilla es llamar a tu repositorio de la siguiente manera:</p>
 <p><code class="language-text">nombredeusuario.github.io</code></p>
@@ -51,7 +51,7 @@
 <p>En el menú que nos aparece indicaremos <strong>Github</strong> como proveedor de **despliegue contínuo y elegiremos nuestro repositorio.</p>
 <p>A continuación nos pedirá una serie de parámetros como la rama que queremos utilizar, que será <strong>master</strong> en nuestro caso, y el comando a ejecutar, que será:</p>
 <p><code class="language-text">gatsby build</code></p>
-<p>El directorio <strong>public</strong> será el contenido publicado, que se confitgurará automáticamente, al igual que el comando de compilanción, ya que nuestra plantilla incluye el archivo <strong>netlify.toml</strong>:</p>
+<p>El directorio <strong>public</strong> será el contenido publicado, que se configurará automáticamente, al igual que el comando de compilación, ya que nuestra plantilla incluye el archivo <strong>netlify.toml</strong>:</p>
 <div class="gatsby-highlight" data-language="toml"><pre class="language-toml"><code class="language-toml"><span class="token punctuation">[</span><span class="token table class-name">build</span><span class="token punctuation">]</span>
   <span class="token key property">publish</span> <span class="token punctuation">=</span> <span class="token string">"public"</span>
   <span class="token key property">command</span> <span class="token punctuation">=</span> <span class="token string">"gatsby build"</span>
@@ -66,7 +66,7 @@
 <p>No hay magia ninguna, simplemente Zeit reconoce por el formato de nuestro proyecto que se trata de un proyecto de Gatsby y ejecuta el comando</p>
 <p><code class="language-text">gatsby build</code></p>
 <h2>En resumen</h2>
-<p>Hemos visto como con estos tres servicios gratuitos que perfectamente pueden cubrir las necesidades de nuestro poyecto web personal, nuestro blog, etc. podemos tener una página web con las últimas tecnologías sin apenas tener conocimientos de programación web. Quizá lo más complicado sea la instalación del software en tu ordenador o la creacion y gestión del repositorio de Github, pero creo que son dos habilidades que merece la pena ejercitar pues te abrirán las puertas al mundo del desarrollo web moderno.</p></div><div class="post-single__date"><em>Published <!-- -->19 Nov 2019</em></div></div><div class="post-single__footer"><hr/><p class="post-single__footer-text">Sitio web personal: artículos, proyectos y material de autobombo<a href="https://twitter.com/dalareo" target="_blank" rel="noopener noreferrer"><br/> <strong>David A. Lareo</strong> on Twitter</a></p><div></div></div></div></div></div></div></div></div><script>
+<p>Hemos visto como con estos tres servicios gratuitos que perfectamente pueden cubrir las necesidades de nuestro proyecto web personal, nuestro blog, etc. podemos tener una página web con las últimas tecnologías sin apenas tener conocimientos de programación web. Quizá lo más complicado sea la instalación del software en tu ordenador o la creación y gestión del repositorio de Github, pero creo que son dos habilidades que merece la pena ejercitar pues te abrirán las puertas al mundo del desarrollo web moderno.</p></div><div class="post-single__date"><em>Published <!-- -->19 Nov 2019</em></div></div><div class="post-single__footer"><hr/><p class="post-single__footer-text">Sitio web personal: artículos, proyectos y material de autobombo<a href="https://twitter.com/dalareo" target="_blank" rel="noopener noreferrer"><br/> <strong>David A. Lareo</strong> on Twitter</a></p><div></div></div></div></div></div></div></div></div><script>
   
   
   if(true) {
