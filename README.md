@@ -2,7 +2,7 @@
 
 # Lumen
 
-Lumen is a minimal, lightweight and mobile-first starter for creating blogs uses
+Lumen is not a minimal, lightweight and mobile-first starter for creating blogs uses
 [Gatsby](https://github.com/gatsbyjs/gatsby).
 
 This is a fork of
@@ -70,3 +70,6 @@ After clicking that button, you’ll authenticate with GitHub and choose a repos
 * https://github.com/chmac
 * https://github.com/YoruNoHikage
 * https://github.com/MartinRosenberg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MDMwNTUzODhdfQ==
+-->
