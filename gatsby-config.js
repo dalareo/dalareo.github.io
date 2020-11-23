@@ -1,7 +1,7 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://lareo.eu'
 
 module.exports = {
   siteMetadata: {
@@ -27,7 +27,7 @@ module.exports = {
       email: 'dalareo@gmail.com',
       twitter: 'dalareo',
       github: 'dalareo',
-      rss: 'https://dalareo.github.io/rss.xml',
+      rss: 'https://lareo.eu/rss.xml',
     },
   },
   plugins: [
@@ -118,7 +118,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'G-Z17E8F2YE3', head: true },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
