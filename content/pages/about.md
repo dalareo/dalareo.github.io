@@ -13,4 +13,4 @@ He impartido muchas acciones formativas relacionadas con **Internet**, el **Clou
 
 Algunos me atribuyen la capacidad de contar cosas, y es por eso que suelo ser el técnico que habla con el cliente y con los usuarios menos técnicos, así como las áreas de negocio. Me gusta pensar que trabajo como **traductor tecnológico**.
 
-Dirijo [FricolaB](https://fricolab.com), y escribía el código y los versos en [EduCaaS](https://educaas.github.io). Actualmente también trabajo como arquitecto de software para [Netex](https://www.netexlearning.com).
+Dirijo [FricolaB](https://fricolab.com) y estoy muy enfocado actualmente al desarrollo de servicios y aplicaciones web en el sector de la educación. También trabajo como arquitecto de software para [Netex](https://www.netexlearning.com), liderando la integración con la nube y la adopción de técnicas y estrategias de despliegue continuo.
