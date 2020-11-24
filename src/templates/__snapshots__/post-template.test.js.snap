@@ -11,7 +11,7 @@ exports[`PostTemplate renders correctly 1`] = `
       className="post__home-button"
       href="/"
     >
-      All Articles
+      Inicio
     </a>
     <div
       className="post__content"
