@@ -20,7 +20,7 @@ Una vez instalada la aplicación con los directorios que deseemos manejar podrem
 
 Aqui comparto la configuración del balanceador de carga que actualmente está funcionando en el prototipo de EduCaaS que podéis usar en https://wip.educaas.io
 
-![](./reglas_lb.png)
+![](/media/reglas_lb.png)
 
 Como se puede observar, además de las reglas de redirección que hacen que cada uno de los subdominios apunte a un servicio diferente (pad.educaas.io al servicio de Pads, chat.educaas.io al chat, etc) existen dos líneas que nos ayudan, por un lado a [declarar los dominios que tenemos asociados al certificado de Lets Encrypt](https://github.com/janeczku/rancher-letsencrypt#http) y otra que redirige el tráfico no seguro a las URLs con SSL. Esto segundo [está siendo actualmente debatido](https://github.com/rancher/rancher/issues/3505) en el repositorio oficial de [Rancher](https://rancher.com) así que es posible que pronto tengamos una solución integrada en la UI.
 

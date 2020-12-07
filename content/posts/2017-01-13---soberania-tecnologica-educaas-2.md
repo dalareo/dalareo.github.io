@@ -131,4 +131,4 @@ lb:
 
 Que la plantilla no te confunda si no estás familiarizado con el código, en la plantilla anterior: ¡solamente tenemos que modificar 16 valores! Además podremos asumir los valores por defecto sin problema si son aptos para nuestro despliegue, por lo que instalar Open edX se convierte en algo tan complejo como **hacer click en el botón de instalar**.
 
-![instalación](./instalar_openedx.png)
+![instalación](/media/instalar_openedx.png)

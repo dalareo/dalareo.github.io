@@ -12,7 +12,7 @@ Todos estos meses en el desarrollo del proyecto nos han ayudado a comprender **l
 
 Fruto de esta inquietud por ofrecer un discurso sencillo hemos rediseñado la [**interfaz de EduCaaS**](https://wip.educaas.io) para que fuese lo más limpia y simple posible. Basándonos en la UI de [Rancher](https://rancher.com), el proyecto en el que se basa el orquestador de [**EduCaaS**](http://educaas.io), hemos procedido a despojarlo de todos aquello elementos innecesarios para el usuario final, hasta conseguir un resultado que hoy os presentamos:
 
-![panel de control](./dashboard_educaas.png)
+![panel de control](/media/dashboard_educaas.png)
 
 En el menu de aplicaciones nos encontramos con grandes tarjetas que representan a cada una de las aplicaciones desplegadas en nuestro entorno. En este caso:
 

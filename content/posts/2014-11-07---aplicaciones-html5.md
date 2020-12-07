@@ -7,9 +7,6 @@ slug: "aplicaciones-html5"
 category: "desarrollo web"
 description: "Desarrollar apps no es una tarea sencilla. Sin embargo existen algunas herramientas que te permitirán dar el salto a las plataformas móviles sin necesidad de aprender los diferentes lenguajes de programación nativos de cada una de ellas: Android, iOS, Windows Phone, etc. Simplemente precisaremos conocer HTML5, el lenguaje standard en la programación web, y utilizar algunos framewoks de programación que a continuación presentaremos."
 ---
-
-
-
 Desarrollar apps no es una tarea sencilla. Sin embargo existen algunas herramientas que te permitirán dar el salto a las plataformas móviles sin necesidad de aprender los diferentes lenguajes de programación nativos de cada una de ellas: Android, iOS, Windows Phone, etc. Simplemente precisaremos conocer HTML5, el lenguaje standard en la programación web, y utilizar algunos framewoks de programación que a continuación presentaremos.
 
 Para un freelance disponer de las herramientas adecuadas es fundamental para poder optimizar al máximo el tiempo dedicado a cada proyecto, pudiendo de esta manera ofrecer productos y servicios adaptados a las necesidades de los clientes por un precio ajustado. Si además dichas herramientas son flexibles y adaptables, como es el caso del software open source, y disponen una amplia documentación y comunidad de desarrollo, como las que aquí vamos a presentar, podremos además ofrecer soluciones flexibles y abiertas.

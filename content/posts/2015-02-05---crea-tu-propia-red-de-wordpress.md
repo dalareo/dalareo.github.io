@@ -8,8 +8,6 @@ category: "desarrollo web"
 description: "Desde la versión 3.0 WordPress, el gestor de contenidos más popular en la web (alcanzando casi el 50% de todos los sitios web publicados)), nos permite configurar una red de blogs"
 ---
 
-
-
 Desde la versión 3.0 [WordPress](https://wordpress.org/ "Wordpress"), **el gestor de contenidos más popular en la web** (alcanzando casi el 50% de todos los sitios web publicados [http://trends.builtwith.com/cms](http://trends.builtwith.com/cms "CMS Technologies Web Usage Statistics")), nos permite configurar una **red de blogs**, una funcionalidad anteriormente disponible en [WordPress Multisite](https://mu.wordpress.org/ "Multisite Wordrpess"). Esta funcionalidad tiene especial interés si queremos construir **una comunidad de sitios web similar a WordPress.com**, asignando a cada uno de los sitios una URL personalizada, pero compartiendo todos ellos un mismo dominio. Imagina una **web corporativa** en la que queremos incluir distintos blogs, de temáticas diferentes, o de autores diferentes, identificados en la **URL con subdominios diferentes** pero todos ellos compartiendo el mismo dominio, algo así como:
 
     tecnología.dominio.com
