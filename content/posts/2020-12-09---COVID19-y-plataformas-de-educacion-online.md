@@ -1,5 +1,5 @@
 ---
-title: "La COVID19 y las plataformas de eduación online (I)"
+title: "La COVID19 y las plataformas de educación online (I)"
 date: "2020-12-09"
 template: post
 draft: false
