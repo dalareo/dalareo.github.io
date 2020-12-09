@@ -1,5 +1,5 @@
 ---
-title: "LMS vs LXP vs what?? Baile de siglas en el e-learning"
+title: "LMS vs LXP vs... ¿qué? Baile de siglas en el e-learning"
 date: "2020-12-09"
 template: post
 draft: false
@@ -28,7 +28,7 @@ Un CMS históricamente se ha dedicado a gestionar el contenido -como bien indica
 
 Desde la explosión de las APIs públicas y la existencia de APIs RESTful, que admiten un elevado volumen de peticiones, son muchos los CMS que han comenzado a publicar el contenido a través de un endpoint accesible públicamente -o de manera privada mediante autenticación- y la funcionalidad de “mostrar” el contenido ha quedado delegada a otros componentes, que podrían ser otros CMS o simplemente aplicaciones web basadas en el cliente -sin backend- para presentar dichos contenidos de una manera dinámica a través de elementos visuales como tablas, paneles, gráficos dinámicos o cualquier elemento susceptible de mostrarse mediante código HTML.
 
-En el ámbito educativo los LMS han *ejercido* muchas veces de **CMS**, permitiendo no solamente la gestión de dichos contenidos sino también la creación con herramientas de authoring integradas. Sin embargo también se han utilizado otros CMS o incluso **ECM** -un invitado más a esta batalla de siglas, **Enterprise Content Management**- con [Alfresco](https://www.alfresco.com) o Nexus como principales representantes, y cuya finalidad es simplemente el almacenamiento y la gestión de documentos.
+En el ámbito educativo los LMS han *ejercido* muchas veces de **CMS**, permitiendo no solamente la gestión de dichos contenidos sino también la creación con herramientas de authoring integradas. Sin embargo también se han utilizado otros CMS o incluso **ECM** -un invitado más a esta batalla de siglas, **Enterprise Content Management**- con [Alfresco](https://www.alfresco.com) o [Nuxeo](https://www.nuxeo.com/es/) como principales representantes, y cuya finalidad es simplemente el almacenamiento y la gestión de documentos.
 
 Con la efervescencia de servicios en la nube y el uso masivo del almacenamiento basado en objetos -Amazon S3 como principal representante- el papel de los ECM se ha ido poco a poco desplazando a algunas industrias y administraciones públicas, vinculado a la gestión de recursos empresariales.
 
