@@ -6,7 +6,7 @@ module.exports = {
   title: 'El blog de David A. Lareo',
   subtitle: 'Sitio web personal: artículos, proyectos y material de autobombo',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'dalareo',
   postsPerPage: 4,
   googleAnalyticsId: 'G-Z17E8F2YE3',
   useKatex: false,
