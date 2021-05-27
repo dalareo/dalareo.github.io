@@ -11,6 +11,6 @@ Me apasiona la **automatización** y trabajo con Docker y su ecosistema (Kuberne
 
 He impartido muchas acciones formativas relacionadas con **Internet**, **Redes**, **Cloud Computing**, **Paradigma DevOps** y otras relacionadas casi siempre con la innovación tecnológica y su impacto en la sociedad.
 
-Actualmente, desde [FricolaB](https://fricolab.com) estoy centrado en **el desarrollo de servicios y aplicaciones web en el sector de la educación**. También colaboro como arquitecto de software en [Netex Learning](https://www.netexlearning.com), propiciando la **integración con los servicios cloud y la adopción de técnicas y estrategias de despliegue continuo**.
+Actualmente, desde [FricolaB](https://fricolab.com) estoy centrado en **el desarrollo de servicios y aplicaciones web en el sector de la educación**, así como la **integración con los servicios cloud y la adopción de técnicas y estrategias de despliegue continuo**.
 
 También escribo (poco) en [Medium](https://medium.com/@dalareo) y [aquí](https://dalareo.wordpress.com/).
