@@ -5,7 +5,7 @@ socialImage: "/media/photo.jpg"
 description: "Un poco de contexto sobre las cosas que he hecho y las que me gustaría hacer."
 ---
 
-Me formé en la universidad en disciplinas tan dispares como la **Economía**, la **Filosofía Contemporánea** o la **Innovación Educativa**. Trabajé como museógrafo, como editor, como diseñador web, como consultor de formación y como docente de Enseñanza Media hasta que en 2010 fundé con otros compañeros **B_cultura**, actualmente [**Fricolab**](https://fricolab.com).
+Me formé en la universidad en disciplinas tan dispares como la **Economía**, la **Filosofía Contemporánea** o la **Innovación Educativa**. Trabajé como museógrafo, como editor, como diseñador web, como consultor de formación y como profesor hasta que en 2010 fundé con otros compañeros **B_cultura**, actualmente [**Fricolab**](https://fricolab.com).
 
 He impartido muchas acciones formativas relacionadas con **Internet**, **Redes**, **Cloud Computing**, **Paradigma DevOps** y otras relacionadas casi siempre con la innovación tecnológica y su impacto en la sociedad. He colaborado, desde 2004, con muchas **instituciones educativas** en la implantación de herramientas digitales, casi siempre usando software libre, fomentando la soberanía tecnológica y el empoderamiento de los estudiantes.
 
