@@ -2,7 +2,8 @@ version: 2
 
 defaults: &defaults
   docker:
-    - image: circleci/node:10.23.0
+    - image: cimg/node:18.12.0
+  resource_class: large
   working_directory: ~/gatsby-starter-lumen
 
 jobs:
@@ -12,12 +13,12 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn install --frozen-lockfile
+            - dependencies-{{ checksum "package-lock.json" }}
+      - run: npm ci
       - save_cache:
           paths:
             - node_modules
-          key: dependencies-{{ checksum "yarn.lock" }}
+          key: dependencies-{{ checksum "package-lock.json" }}
 
   lint:
     <<: *defaults
@@ -25,8 +26,8 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn lint
+            - dependencies-{{ checksum "package-lock.json" }}
+      - run: npm run lint
 
   test:
     <<: *defaults
@@ -34,8 +35,8 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn test --runInBand --no-cache
+            - dependencies-{{ checksum "package-lock.json" }}
+      - run: npm run test --runInBand --no-cache
 
   coverage:
     <<: *defaults
@@ -43,8 +44,8 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn test:coverage --runInBand --no-cache
+            - dependencies-{{ checksum "package-lock.json" }}
+      - run: npm run test:coverage --runInBand --no-cache
       - save_cache:
           key: coverage-{{ .Environment.CIRCLE_SHA1 }}
           paths:
@@ -56,13 +57,12 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependencies-{{ checksum "yarn.lock" }}
+            - dependencies-{{ checksum "package-lock.json" }}
       - restore_cache:
           keys:
-            - coverage-output-{{ .Environment.CIRCLE_SHA1 }}
-      - run: yarn global add codecov
-      - run: yarn codecov
-    
+            - coverage-{{ .Environment.CIRCLE_SHA1 }}
+      - run: npx codecov
+
 workflows:
   version: 2
   test:
