@@ -16,6 +16,6 @@ Me apasiona la **automatización** y trabajo con Docker y su ecosistema (Kuberne
 
 Desde [FricolaB](https://fricolab.com) estoy centrado el **diseño de arquitecturas de software para la nube** y la adopción de técnicas y estrategias de **integración y despliegue continuo**.
 
-En 2022 fundé [éutika] (https://eutika.com) para desarrollamos **ecosistemas digitales** para la **educación superior** y el **aprendizaje a lo largo de la vida** mediante laboratorios de innovación.
+En 2022 fundé con mis socios [Eutika](https://eutika.com) donde desarrollamos **ecosistemas digitales** para la **educación superior** y el **aprendizaje a lo largo de la vida** mediante laboratorios de innovación.
 
 También escribo (poco) en [Medium](https://medium.com/@dalareo) y [aquí](https://dalareo.wordpress.com/).
