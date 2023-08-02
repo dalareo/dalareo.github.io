@@ -14,6 +14,8 @@ He dirigido el Laboratorio de Innovación Ciudadana, **Colab**, en A Coruña y c
 
 Me apasiona la **automatización** y trabajo con Docker y su ecosistema (Kubernetes, Openshift, Swarm, etc) así como las distintas herramientas de IaC -**infraestructura como código**- como Terraform, Ansible, Helm, Pulumi, etc. He colaborado con algunas de principales consultoras tecnológicas en posiciones de DevOps, Ingeniero cloud o Software Reliability Engineer, **implantando procesos de integración** en arquitecturas de **Big Data** y ayudando a **migrar a la nube** las cargas de trabajo basadas en modelos tradicionales.
 
-Actualmente, desde [FricolaB](https://fricolab.com) estoy centrado en **el desarrollo de servicios y aplicaciones web en el sector de la educación**, así como el **diseño de arquitecturas de software para la nube** y la adopción de técnicas y estrategias de **integración y despliegue continuo**.
+Desde [FricolaB](https://fricolab.com) estoy centrado el **diseño de arquitecturas de software para la nube** y la adopción de técnicas y estrategias de **integración y despliegue continuo**.
+
+En 2022 fundé [éutika] (https://eutika.com) para desarrollamos **ecosistemas digitales** para la **educación superior** y el **aprendizaje a lo largo de la vida** mediante laboratorios de innovación.
 
 También escribo (poco) en [Medium](https://medium.com/@dalareo) y [aquí](https://dalareo.wordpress.com/).
