@@ -25,8 +25,7 @@ const whenExternalScripts = (items = []) =>
     : [];
 
 export default defineConfig({
-  site: SITE.site,
-  base: SITE.base,
+  site: 'https://lareo.eu',
   trailingSlash: SITE.trailingSlash ? 'always' : 'never',
 
   output: 'static',
