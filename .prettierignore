@@ -1,10 +1,4 @@
-*.*
-!*.json
-!*.md
-!*.mdx
-!*.ts
-!*.tsx
-!*.yml
-!*.js
-/coverage/
-/public/
+dist
+node_modules
+.github
+.changeset

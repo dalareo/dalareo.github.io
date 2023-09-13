@@ -1,145 +1,274 @@
-<h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo.png" width="140"> </br>
-    Lumen
-</h1>
+# 🚀 AstroWind
 
-<h4 align="center">
-  A constantly evolving and thoughtful architecture for creating new static blogs.
-</h4>
+<img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
+     alt="AstroWind Lighthouse Score" width="100" height="358">
 
-<p align="center">
-    <a target="_blank" href="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://circleci.com/gh/alxshelepenok/gatsby-starter-lumen.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen"><img src="https://codecov.io/gh/alxshelepenok/gatsby-starter-lumen/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/gh/alxshelepenok/gatsby-starter-lumen/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alxshelepenok/gatsby-starter-lumen&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/2d21235e36e34b758aaa27fecd3c8048"></a> <a target="_blank" href="https://codeclimate.com/github/alxshelepenok/gatsby-starter-lumen"><img src="https://img.shields.io/codeclimate/maintainability/alxshelepenok/gatsby-starter-lumen.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Falxshelepenok%2Fgatsby-starter-lumen.svg?type=shield"/></a>
-</p>
+🌟 _Most *starred* & *forked* Astro theme in 2022_. 🌟
 
-## Table of contents
+**AstroWind** is a free and open-source template to make your website using **[Astro 3.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
 
-- [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
-- [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-- [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
-- [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
-- [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
-- [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
+- ✅ **Production-ready** scores in **PageSpeed Insights** reports.
+- ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
+- ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
+- ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
+- ✅ Generation of **project sitemap** based on your routes.
+- ✅ **Open Graph tags** for social media sharing.
+- ✅ **Analytics** built-in Google Analytics, and Splitbee integration.
 
-## Features
+<br>
 
-- Beautiful typography.
-- Mobile first approach in development.
-- Syntax highlighting in code blocks using PrismJS.
-- Pagination support.
+<img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/screenshot-astro3.png" alt="AstroWind Theme Screenshot">
 
-## Quick Start
+[![onWidget](https://custom-icon-badges.demolab.com/badge/made%20by%20-onWidget-556bf2?style=flat-square&logo=onwidget&logoColor=white&labelColor=101827)](https://onwidget.com)
+[![License](https://img.shields.io/github/license/onwidget/astrowind?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/onwidget/astrowind/blob/main/LICENSE.md)
+[![Maintained](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square)](https://github.com/onwidget)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/onwidget/astrowind#contributing)
+[![Known Vulnerabilities](https://snyk.io/test/github/onwidget/astrowind/badge.svg?style=flat-square)](https://snyk.io/test/github/onwidget/astrowind)
+[![Stars](https://img.shields.io/github/stars/onwidget/astrowind.svg?style=social&label=stars&maxAge=86400&color=ff69b4)](https://github.com/onwidget/astrowind)
+[![Forks](https://img.shields.io/github/forks/onwidget/astrowind.svg?style=social&label=forks&maxAge=86400&color=ff69b4)](https://github.com/onwidget/astrowind)
+
+<br>
+
+<details open>
+<summary>Table of Contents</summary>
+
+- [Demo](#demo)
+- [Getting started](#getting-started)
+  - [Project structure](#project-structure)
+  - [Commands](#commands)
+  - [Configuration](#configuration)
+  - [Deploy](#deploy)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
+</details>
+
+<br>
+
+## Demo
+
+📌 [https://astrowind.vercel.app/](https://astrowind.vercel.app/)
+
+<br>
+
+## Getting started
+
+**AstroWind** tries to give you quick access to creating a website using [Astro 3.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/). It's a free theme focuses on simplicity, good practices and high performance.
+
+Very little vanilla javascript is used only to provide basic functionality so that each developer decides which framework (React, Vue, Svelte, Solid JS...) to use and how to approach their goals..
+
+### Project structure
+
+Inside AstroWind template, you'll see the following folders and files:
 
 ```
-$ npm install
-$ npm run start
+/
+├── public/
+│   ├── _headers
+│   └── robots.txt
+├── src/
+│   ├── assets/
+│   │   ├── favicons/
+│   │   ├── images/
+│   │   └── styles/
+│   │       └── tailwind.css
+│   ├── components/
+│   │   ├── blog/
+│   │   ├── common/
+│   │   ├── ui/
+│   │   ├── widgets/
+│   │   │   ├── Header.astro
+│   │   │   └── ...
+│   │   ├── CustomStyles.astro
+│   │   ├── Favicons.astro
+│   │   └── Logo.astro
+│   ├── content/
+│   │   ├── post/
+│   │   │   ├── post-slug-1.md
+│   │   │   ├── post-slug-2.mdx
+│   │   │   └── ...
+│   │   └-- config.ts
+│   ├── layouts/
+│   │   ├── Layout.astro
+│   │   ├── MarkdownLayout.astro
+│   │   └── PageLayout.astro
+│   ├── pages/
+│   │   ├── [...blog]/
+│   │   │   ├── [category]/
+│   │   │   ├── [tag]/
+│   │   │   ├── [...page].astro
+│   │   │   └── index.astro
+│   │   ├── index.astro
+│   │   ├── 404.astro
+│   │   ├-- rss.xml.ts
+│   │   └── ...
+│   ├── utils/
+│   ├── config.yaml
+│   └── navigation.js
+├── package.json
+├── astro.config.mjs
+└── ...
 ```
 
-## Folder Structure
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+
+Any static assets, like images, can be placed in the `public/` directory if they do not require any transformation or in the `assets/` directory if they are imported directly.
+
+[![Edit AstroWind on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://githubbox.com/onwidget/astrowind/tree/main)
+
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Update `config.mjs` and contents. Have fun!
+
+<br>
+
+### Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command               | Action                                             |
+| :-------------------- | :------------------------------------------------- |
+| `npm install`         | Installs dependencies                              |
+| `npm run dev`         | Starts local dev server at `localhost:3000`        |
+| `npm run build`       | Build your production site to `./dist/`            |
+| `npm run preview`     | Preview your build locally, before deploying       |
+| `npm run format`      | Format codes with Prettier                         |
+| `npm run lint:eslint` | Run Eslint                                         |
+| `npm run astro ...`   | Run CLI commands like `astro add`, `astro preview` |
+
+<br>
+
+### Configuration
+
+Basic configuration file: `./src/config.yaml`
+
+```yaml
+site:
+  name: 'Example'
+  site: 'https://example.com'
+  base: '/' # Change this if you need to deploy to Github Pages, for example
+  trailingSlash: false # Generate permalinks with or without "/" at the end
+
+  googleSiteVerificationId: false # Or some value,
+
+# Default SEO metadata
+metadata:
+  title:
+    default: 'Example'
+    template: '%s — Example'
+  description: 'This is the default meta description of Example website'
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    site_name: 'Example'
+    images:
+      - url: '~/assets/images/default.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+
+i18n:
+  language: en
+  textDirection: ltr
+
+apps:
+  blog:
+    isEnabled: true
+    postsPerPage: 6
+
+    post:
+      isEnabled: true
+      permalink: '/blog/%slug%' # Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
+      robots:
+        index: true
+
+    list:
+      isEnabled: true
+      pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
+      robots:
+        index: true
+
+    category:
+      isEnabled: true
+      pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
+      robots:
+        index: true
+
+    tag:
+      isEnabled: true
+      pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
+      robots:
+        index: false
+
+analytics:
+  vendors:
+    googleAnalytics:
+      id: null # or "G-XXXXXXXXXX"
+
+ui:
+  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
 ```
-.
-├── internal
-│   ├── definitions
-│   ├── gatsby
-│   │   ├── constants
-│   │   ├── queries
-│   │   ├── types
-│   │   └── utils
-│   └── testing
-│       └── __mocks__
-└── src
-    ├── assets
-    │   └── scss
-    │       ├── base
-    │       └── mixins
-    ├── components
-    │   ├── Feed
-    │   ├── Icon
-    │   ├── Image
-    │   ├── Layout
-    │   ├── Page
-    │   ├── Pagination
-    │   ├── Post
-    │   │   ├── Author
-    │   │   ├── Comments
-    │   │   ├── Content
-    │   │   ├── Meta
-    │   │   └── Tags
-    │   └── Sidebar
-    │       ├── Author
-    │       ├── Contacts
-    │       ├── Copyright
-    │       └── Menu
-    ├── constants
-    ├── hooks
-    ├── templates
-    │   ├── CategoriesTemplate
-    │   ├── CategoryTemplate
-    │   ├── IndexTemplate
-    │   ├── NotFoundTemplate
-    │   ├── PageTemplate
-    │   ├── PostTemplate
-    │   ├── TagsTemplate
-    │   └── TagTemplate
-    ├── types
-    └── utils
+
+<br>
+
+### Deploy
+
+#### Deploy to production (manual)
+
+You can create an optimized production build with:
+
+```shell
+npm run build
 ```
 
-## Sponsors
+Now, your website is ready to be deployed. All generated files are located at
+`dist` folder, which you can deploy the folder to any hosting service you
+prefer.
 
-Development efforts are supported by the sponsors. I'm very grateful for their donations, please check them out!
+#### Deploy to Netlify
 
-| <a href="https://www.browserstack.com" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/94cbc6dc4a2cb8167ee188ddab33893a/raw/f869c9a67db7bfd5440a49178195efe811d8f7d8/browserstack.svg"></a> | <a href="https://sentry.io" target="_blank"><img width="250" src="https://gist.githubusercontent.com/alxshelepenok/1a74dbe123b2f7ad538f41c94e2da0a2/raw/aaeb3b38ef0873bae1f23f3605696b4e65362e67/sentry.svg"></a> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+Clone this repository on own GitHub account and deploy to Netlify:
 
-## Contributors
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/onwidget/astrowind)
 
-Thanks to these wonderful people!
+#### Deploy to Vercel
 
-| [<img alt="vzhou842" src="https://avatars.githubusercontent.com/u/10209814?v=4&s=117" width="117">](https://github.com/vzhou842) | [<img alt="abisz" src="https://avatars.githubusercontent.com/u/7287780?v=4&s=117" width="117">](https://github.com/abisz) | [<img alt="remi-bruguier" src="https://avatars.githubusercontent.com/u/7031328?v=4&s=117" width="117">](https://github.com/remi-bruguier) | [<img alt="sparklesam" src="https://avatars.githubusercontent.com/u/10287995?v=4&s=117" width="117">](https://github.com/sparklesam) | [<img alt="vinnymac" src="https://avatars.githubusercontent.com/u/1832781?v=4&s=117" width="117">](https://github.com/vinnymac) | [<img alt="mariolopjr" src="https://avatars.githubusercontent.com/u/2067324?v=4&s=117" width="117">](https://github.com/mariolopjr) |
-| :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [vzhou842](https://github.com/vzhou842)                                              |                                             [abisz](https://github.com/abisz)                                             |                                             [remi-bruguier](https://github.com/remi-bruguier)                                             |                                             [sparklesam](https://github.com/sparklesam)                                              |                                             [vinnymac](https://github.com/vinnymac)                                             |                                             [mariolopjr](https://github.com/mariolopjr)                                             |
+Clone this repository on own GitHub account and deploy to Vercel:
 
-| [<img alt="ihororlovskyi" src="https://avatars.githubusercontent.com/u/7969737?v=4&s=117" width="117">](https://github.com/ihororlovskyi) | [<img alt="rtveitch" src="https://avatars.githubusercontent.com/u/25228001?v=4&s=117" width="117">](https://github.com/rtveitch) | [<img alt="timbroder" src="https://avatars.githubusercontent.com/u/121503?v=4&s=117" width="117">](https://github.com/timbroder) | [<img alt="yodahuang" src="https://avatars.githubusercontent.com/u/11242657?v=4&s=117" width="117">](https://github.com/yodahuang) | [<img alt="axelclark" src="https://avatars.githubusercontent.com/u/16856928?v=4&s=117" width="117">](https://github.com/axelclark) | [<img alt="tonyz0x0" src="https://avatars.githubusercontent.com/u/29159357?v=4&s=117" width="117">](https://github.com/tonyz0x0) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [ihororlovskyi](https://github.com/ihororlovskyi)                                             |                                             [rtveitch](https://github.com/rtveitch)                                              |                                            [timbroder](https://github.com/timbroder)                                             |                                             [yodahuang](https://github.com/yodahuang)                                              |                                             [axelclark](https://github.com/axelclark)                                              |                                             [tonyz0x0](https://github.com/tonyz0x0)                                              |
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonwidget%2Fastrowind)
 
-| [<img alt="tranlehaiquan" src="https://avatars.githubusercontent.com/u/17347993?v=4&s=117" width="117">](https://github.com/tranlehaiquan) | [<img alt="seandearnaley" src="https://avatars.githubusercontent.com/u/5084762?v=4&s=117" width="117">](https://github.com/seandearnaley) | [<img alt="stigrune" src="https://avatars.githubusercontent.com/u/1052748?v=4&s=117" width="117">](https://github.com/stigrune) | [<img alt="ybbarng" src="https://avatars.githubusercontent.com/u/1793950?v=4&s=117" width="117">](https://github.com/ybbarng) | [<img alt="marktani" src="https://avatars.githubusercontent.com/u/1780597?v=4&s=117" width="117">](https://github.com/marktani) | [<img alt="concreted" src="https://avatars.githubusercontent.com/u/4016897?v=4&s=117" width="117">](https://github.com/concreted) |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [tranlehaiquan](https://github.com/tranlehaiquan)                                              |                                             [seandearnaley](https://github.com/seandearnaley)                                             |                                             [stigrune](https://github.com/stigrune)                                             |                                             [ybbarng](https://github.com/ybbarng)                                             |                                             [marktani](https://github.com/marktani)                                             |                                             [concreted](https://github.com/concreted)                                             |
+<br>
 
-| [<img alt="gipcompany" src="https://avatars.githubusercontent.com/u/130989?v=4&s=117" width="117">](https://github.com/gipcompany) | [<img alt="chmac" src="https://avatars.githubusercontent.com/u/690997?v=4&s=117" width="117">](https://github.com/chmac) | [<img alt="charandas" src="https://avatars.githubusercontent.com/u/542168?v=4&s=117" width="117">](https://github.com/charandas) | [<img alt="ibraheemdev" src="https://avatars.githubusercontent.com/u/34988408?v=4&s=117" width="117">](https://github.com/ibraheemdev) | [<img alt="sladinji" src="https://avatars.githubusercontent.com/u/8300799?v=4&s=117" width="117">](https://github.com/sladinji) | [<img alt="marcelabomfim" src="https://avatars.githubusercontent.com/u/6224547?v=4&s=117" width="117">](https://github.com/marcelabomfim) |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [gipcompany](https://github.com/gipcompany)                                             |                                            [chmac](https://github.com/chmac)                                             |                                            [charandas](https://github.com/charandas)                                             |                                             [ibraheemdev](https://github.com/ibraheemdev)                                              |                                             [sladinji](https://github.com/sladinji)                                             |                                             [marcelabomfim](https://github.com/marcelabomfim)                                             |
+## Frequently Asked Questions
 
-| [<img alt="zollillo" src="https://avatars.githubusercontent.com/u/8833904?v=4&s=117" width="117">](https://github.com/zollillo) | [<img alt="codejet" src="https://avatars.githubusercontent.com/u/802203?v=4&s=117" width="117">](https://github.com/codejet) | [<img alt="reed-jones" src="https://avatars.githubusercontent.com/u/11511864?v=4&s=117" width="117">](https://github.com/reed-jones) | [<img alt="SayakaOno" src="https://avatars.githubusercontent.com/u/33141219?v=4&s=117" width="117">](https://github.com/SayakaOno) | [<img alt="Puterism" src="https://avatars.githubusercontent.com/u/2542730?v=4&s=117" width="117">](https://github.com/Puterism) | [<img alt="swapnilmishra" src="https://avatars.githubusercontent.com/u/875450?v=4&s=117" width="117">](https://github.com/swapnilmishra) |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [zollillo](https://github.com/zollillo)                                             |                                            [codejet](https://github.com/codejet)                                             |                                             [reed-jones](https://github.com/reed-jones)                                              |                                             [SayakaOno](https://github.com/SayakaOno)                                              |                                             [Puterism](https://github.com/Puterism)                                             |                                            [swapnilmishra](https://github.com/swapnilmishra)                                             |
+- Why?
+-
+-
 
-| [<img alt="vvasiloud" src="https://avatars.githubusercontent.com/u/5891530?v=4&s=117" width="117">](https://github.com/vvasiloud) | [<img alt="lune-sta" src="https://avatars.githubusercontent.com/u/1887764?v=4&s=117" width="117">](https://github.com/lune-sta) | [<img alt="yaaooo" src="https://avatars.githubusercontent.com/u/16640310?v=4&s=117" width="117">](https://github.com/yaaooo) | [<img alt="vstoms" src="https://avatars.githubusercontent.com/u/22646173?v=4&s=117" width="117">](https://github.com/vstoms) | [<img alt="wichopy" src="https://avatars.githubusercontent.com/u/24414632?v=4&s=117" width="117">](https://github.com/wichopy) | [<img alt="yairmark" src="https://avatars.githubusercontent.com/u/28291977?v=4&s=117" width="117">](https://github.com/yairmark) |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [vvasiloud](https://github.com/vvasiloud)                                             |                                             [lune-sta](https://github.com/lune-sta)                                             |                                             [yaaooo](https://github.com/yaaooo)                                              |                                             [vstoms](https://github.com/vstoms)                                              |                                             [wichopy](https://github.com/wichopy)                                              |                                             [yairmark](https://github.com/yairmark)                                              |
+<br>
+
+## Related projects
+
+- [TailNext](https://tailnext.vercel.app/) - Free template using Next.js 13 and Tailwind CSS with the new App Router.
+- [Qwind](https://qwind.pages.dev/) - Free template to make your website using Qwik + Tailwind CSS.
+
+## Contributing
+
+If you have any idea, suggestions or find any bugs, feel free to open a discussion, an issue or create a pull request.
+That would be very useful for all of us and we would be happy to listen and take action.
+
+## Acknowledgements
+
+Initially created by [onWidget](https://onwidget.com) and maintained by a community of [contributors](https://github.com/onwidget/astrowind/graphs/contributors).
 
 ## License
 
-The MIT License (MIT)
-
-Copyright (c) 2016-2022 Alexander Shelepenok
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**AstroWind** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.

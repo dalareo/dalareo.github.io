@@ -1,0 +1,89 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import Header from '~/components/widgets/Header.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Content from '~/components/widgets/Content.astro';
+
+const metadata = {
+  title: 'Personal Homepage Demo',
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="header">
+    <Header
+      links={[
+        { text: 'About', href: '#about' },
+        { text: 'Blog', href: '/blog' },
+        { text: 'Github', href: 'https://github.com/dalareo' },
+      ]}
+
+      isSticky
+      showToggleTheme
+    />
+  </Fragment>
+
+  <!-- Hero2 Widget ******************* -->
+
+  <Hero
+    id="hero"
+    title="David A. Lareo"
+  >
+    <Fragment slot="subtitle">
+      Bípedo implume enredado con la tecnología. 
+      Escribo sobre desarrollo web, cloud computing y tecnología educativa.
+    </Fragment>
+  </Hero>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    id="about"
+    columns={3}
+    items={[
+      {
+        icon: 'tabler:school',
+        callToAction: {
+          target: '_blank',
+          text: 'éutika',
+          href: 'https://eutika.com',
+        },
+      },
+      {
+        icon: 'tabler:cloud',
+        callToAction: {
+          target: '_blank',
+          text: 'Fricolab',
+          href: 'https://fricolab.com',
+        },
+      },
+    ]}
+    image={{
+      src: '~/assets/images/david.webp',
+      alt: 'David A. Lareo',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Sobre mí</h3>
+      <p>
+        Mi primer recuerdo relacionado con la tecnología pasa por la revista MicroHobby y los juegos en 8 bits.
+        Desde entonces, he estado enredado con la tecnología, primero como usuario y luego como desarrollador.
+      </p>
+      <br />
+      <p>
+        Intento seguir todas las iniciativas que surgen en el desarrollo web y la gestión de infraestrctura digital.
+        Aplico las soluciones que considero más interesantes con mis clientes y comparto con mis compañeros todo lo que he aprendido.
+        Mi formación humanística es la que me permite ejercer de traductor con otros perfiles menos técnicos, y también la que
+        muchas veces me ayuda a tener cierta perspectiva y no considerar la tecnología como un fin en si mismo.
+      </p>
+      <br />
+      <p>Puedes consultar algunos proyectos en los que estoy enredado:</p>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+</Layout>
