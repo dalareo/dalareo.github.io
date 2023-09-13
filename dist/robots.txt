@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lareo.eu/sitemap-index.xml
