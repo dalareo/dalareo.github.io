@@ -2,7 +2,7 @@ site:
   name: Blog de David A. Lareo
   site: 'https://lareo.eu'
   base: '/'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId: false
 
